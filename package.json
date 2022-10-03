@@ -1,0 +1,20 @@
+{
+  "name": "UAlbanyExpertFinder.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "faculty.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdat-dev/UAlbanyExpertFinder.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdat-dev/UAlbanyExpertFinder.github.io/issues"
+  },
+  "homepage": "https://github.com/sdat-dev/UAlbanyExpertFinder.github.io#readme"
+}

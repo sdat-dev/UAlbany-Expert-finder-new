@@ -1,8 +1,12 @@
-console.log("Hey!")
-const tree2 = require('../JSONs/tree2.json')
-const tree3 = require('../JSONs/tree3.json')
-const facultyAbstracts = require('../JSONs/PI_Abstract.json');
+// console.log("Hey!")
+// const tree2 = require('../JSONs/tree2.json')
+const tree3 = require('./JSONs/tree3.json')
+// const facultyAbstracts = require('../JSONs/PI_Abstract.json');
 
+
+
+
+console.log(tree3);
 
 const matchFacultyToDepartments = (firstName, lastName) => {
     const facultyName = `${firstName} ${lastName}`.toLowerCase()
@@ -11,7 +15,7 @@ const matchFacultyToDepartments = (firstName, lastName) => {
     let abstract = facultyAbstracts[facultyName]
 
     if (!abstract) {
-        console.log('Faculty name is incorrect')
+        // console.log('Faculty name is incorrect')
         return []
     }
 
@@ -39,14 +43,14 @@ const checkFacultiesBasedOnKeywords = (keyWord) => {
 
 function isKeyInContent(key,content) {
     key = key.toLowerCase()
-    console.log(content.length,"Content")
-    console.log(key.length,"Key")
+    // console.log(content.length,"Content")
+    // console.log(key.length,"Key")
     content = content.toLowerCase()
     let i=0, j=0
 
     while(j<content.length) {
         if(i>=key.length) {
-        console.log(i)
+        // console.log(i)
             return i>= key.length/2 ? true : false
         }
         if(key[i] === content[j]){
@@ -54,9 +58,9 @@ function isKeyInContent(key,content) {
         }
         j++
     }
-    console.log(i)
+    // console.log(i)
     return i>=key.length/2 ? true : false
 }
 
-console.log(isKeyInContent('Artificial Intelligence','This data Science is the part of dadArtificial int'))
+// console.log(isKeyInContent('Artificial Intelligence','This data Science is the part of dadArtificial int'))
 

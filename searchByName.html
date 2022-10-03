@@ -71,7 +71,7 @@
     <div class="container text-center mt-5">
         <div class="row">
             <div class="col">
-                <button type="button" onclick="getNames()" class="btn btn-primary btn-lg">Get Results</button>
+                <button type="button" id="get-keys-btn" class="btn btn-primary btn-lg">Get Results</button>
             </div>
         </div>
     </div>
@@ -90,7 +90,7 @@
                         </h2>
                         <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
                             data-bs-parent="#accordionExample">
-                            <div class="accordion-body">
+                            <div class="accordion-body" id="accordian-content">
                                 Results displayed
                             </div>
                         </div>
@@ -100,6 +100,6 @@
         </div>
     </div>
 
-    <script src="/searchByName.js"></script>
+    <script type="module" src="/searchByName.js"></script>
 </body>
 </html>
