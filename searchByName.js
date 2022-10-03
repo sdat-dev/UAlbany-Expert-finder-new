@@ -15,8 +15,8 @@ const matchFacultyToDepartments = (firstName, lastName) => {
 
     abstract = abstract.toLowerCase()
     return keyWords.filter((keyWord) => {
-        keyWord=keyWord.replace('(','');
-        keyWord=keyWord.replace(')','');
+        keyWord = keyWord.replace('(', '');
+        keyWord = keyWord.replace(')', '');
         return new RegExp(`\\b${keyWord}\\b`, 'gmi').test(abstract);
     }
     )
@@ -31,22 +31,22 @@ document.getElementById('get-keys-btn').addEventListener('click', () => {
     console.log(firstname, lastname);
     console.log(matchFacultyToDepartments(firstname, lastname));
 
-    let keysData= matchFacultyToDepartments(firstname, lastname);
-    if(keysData.length>0){
+    let keysData = matchFacultyToDepartments(firstname, lastname);
+    if (keysData.length > 0) {
+        document.getElementById("accordian-content").innerText="";
+        let keyscontentData = keysData.map((keywrd, i) => `<tr><th scope="row">${i}</th><td>${keywrd}</td></tr>`);
 
-    
-    let keyscontentData=keysData.map((keywrd,i)=>`<tr><th scope="row">${i}</th><td>${keywrd}</td></tr>`)
-    document.getElementById("accordian-content").innerHTML=`<table class="table table-hover">
+        document.getElementById("accordian-content").innerHTML = `<table class="table table-hover">
     <thead>
     <tr>
       <th scope="col">#</th>
       <th scope="col">Keywords</th>
     </tr>
   </thead>
-  <tbody>`+ keyscontentData +`</tbody></table>`
+  <tbody>`+ keyscontentData.join("") + `</tbody></table>`
     }
-    else{
-        document.getElementById("accordian-content").innerHTML=`<p>There are no matches for the given input</p>`;
+    else {
+        document.getElementById("accordian-content").innerHTML = `<p>There are no matches for the given input</p>`;
     }
 })
 

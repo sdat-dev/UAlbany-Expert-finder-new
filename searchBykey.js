@@ -47,7 +47,7 @@ document.getElementById('get-results').addEventListener('click',()=>{
           <th scope="col">Last name</th>
         </tr>
       </thead>
-      <tbody>`+ facultyHtmlContent +`</tbody></table>`;
+      <tbody>`+ facultyHtmlContent.join("") +`</tbody></table>`;
     }
 }
     else{
