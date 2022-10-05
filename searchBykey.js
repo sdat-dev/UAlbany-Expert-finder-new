@@ -22,7 +22,7 @@ const capitalize = (word) =>{
     else{
         return "";
     }
-};
+}
 
 document.getElementById('get-results').addEventListener('click',()=>{
     const keyWord=document.getElementById('input-keyword').value;
