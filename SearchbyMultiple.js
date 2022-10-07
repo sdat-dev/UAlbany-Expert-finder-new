@@ -62,25 +62,57 @@ const removeUniqs=(arr)=>{
     return unqarr;
 }
 
+const changeToFirstLAstName=(nameScoreArray)=>{
+let fisrtLastNameArr=[]
+    for(let i of nameScoreArray){
+    let name=Object.keys(i)[0].split(" ");
+    let obj={
+        firstName:"",
+        lastName:""
+    }
+    obj.firstName=name[0];
+    obj.lastName=name[1]
+    fisrtLastNameArr.push(obj);
+}
+return fisrtLastNameArr;
+}
+
 export const getVals=()=>{
     console.log("triggered");
     let val = $('.multiple-picker-ex').selectpicker('val');
     // console.log(tree3);
     let totalFaculty=[];
+    let facultyScore={}
    for(let i of val){
        let matchFacData=checkFacultiesBasedOnKeywords(i);
-       console.log(matchFacData,"match data");
+  
        totalFaculty= totalFaculty.concat(matchFacData)
    }
-   console.log(totalFaculty,"Total");
-   
-   //remove duplicats
-   let uniq = removeUniqs(totalFaculty);
 
-   console.log(uniq);
+
+   for(let fac of totalFaculty){
+       if(facultyScore[fac.firstName+" "+fac.lastName]){
+        facultyScore[fac.firstName+" "+fac.lastName]+=1;
+       }
+       else{
+        facultyScore[fac.firstName+" "+fac.lastName]=1
+       }
+   }
+
+
+
+   let keysSorted = Object.keys(facultyScore)
+                                        .sort(function(a,b){return facultyScore[b]-facultyScore[a]})
+                                        .map(key =>( {[key]:facultyScore[key]}));
+   console.log(keysSorted); 
+
+
+
+   let uniq=changeToFirstLAstName(keysSorted);
+
 
    if(uniq.length>0){
-    // document.getElementById("collapseOne").c=true;
+   
     
     let facultyHtmlContent=uniq.map((faculty,i)=>`<tr>
      <th scope="row">${i}</th>
