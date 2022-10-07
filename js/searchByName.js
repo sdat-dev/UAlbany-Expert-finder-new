@@ -1,6 +1,6 @@
 
-import tree3 from './JSONs/tree3.json' assert {type: 'json'};;
-import facultyAbstracts from './JSONs/PI_Abstract.json' assert {type: 'json'};
+import tree3 from '../JSONs/tree3.json' assert {type: 'json'};;
+import facultyAbstracts from '../JSONs/PI_Abstract.json' assert {type: 'json'};
 
 const matchFacultyToDepartments = (firstName, lastName) => {
     const facultyName = `${firstName} ${lastName}`.toLowerCase()

@@ -1,5 +1,5 @@
-import tree3 from './JSONs/tree3.json' assert {type: 'json'};;
-import facultyAbstracts from './JSONs/PI_Abstract.json' assert {type: 'json'};
+import tree3 from '../JSONs/tree3.json' assert {type: 'json'};;
+import facultyAbstracts from '../JSONs/PI_Abstract.json' assert {type: 'json'};
 
 function checkFacultiesBasedOnKeywords(keyWord) {
     const matchedFaculties = [];
