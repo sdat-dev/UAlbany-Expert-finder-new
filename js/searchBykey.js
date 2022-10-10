@@ -108,7 +108,7 @@ document.getElementById('get-results').addEventListener('click', () => {
         let keycountOccurances = getKeyOccurances(matchedWords, keyWord); // count no of times keywords repeated in input text
        
         let scoredFaculty = scoreTheFaculty(keycountOccurances); //apply formula for score here ( for faculty with keywords)
-        
+
         let sortedFaculty = sortByScore(scoredFaculty);  //sort the formulated scores in desc ordr
         console.log(sortedFaculty);
         
@@ -117,7 +117,7 @@ document.getElementById('get-results').addEventListener('click', () => {
         if (sortedFaculty.length > 0) {
             document.getElementsByClassName("accordion-body")[0].innerHTML = ``;
             let facultyHtmlContent = sortedFaculty.map((faculty, i) => `<tr>
-         <th scope="row">${i}</th>
+         <th scope="row">${i+1}</th>
          <td>${faculty}</td> 
          </tr>`);
 

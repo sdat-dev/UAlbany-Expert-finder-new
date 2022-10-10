@@ -122,7 +122,7 @@ export const getVals=()=>{
    
     
     let facultyHtmlContent=uniq.map((faculty,i)=>`<tr>
-     <th scope="row">${i}</th>
+     <th scope="row">${i+1}</th>
      <td>${capitalize(faculty.firstName)}</td>
      <td>${capitalize(faculty.lastName)}</td>
      </tr>`);

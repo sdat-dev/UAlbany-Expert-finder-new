@@ -34,7 +34,7 @@ document.getElementById('get-keys-btn').addEventListener('click', () => {
     let keysData = matchFacultyToDepartments(firstname, lastname);
     if (keysData.length > 0) {
         document.getElementById("accordian-content").innerText="";
-        let keyscontentData = keysData.map((keywrd, i) => `<tr><th scope="row">${i}</th><td>${keywrd}</td></tr>`);
+        let keyscontentData = keysData.map((keywrd, i) => `<tr><th scope="row">${i+1}</th><td>${keywrd}</td></tr>`);
 
         document.getElementById("accordian-content").innerHTML = `<table class="table table-hover">
     <thead>
