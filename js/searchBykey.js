@@ -24,10 +24,22 @@ const capitalize = (word) =>{
     }
 }
 
+const getKeywordsFromText=(text)=>{
+    for(let [key,val] of Object.entries(tree3)){
+        if(text.includes(key.toLowerCase())){
+            console.log(key);
+        }
+    }
+}
+
 document.getElementById('get-results').addEventListener('click',()=>{
-    const keyWord=document.getElementById('input-keyword').value;
-    console.log(keyWord);
-    console.log(checkFacultiesBasedOnKeywords(keyWord));
+    const abstract=document.getElementById('input-keyword').value;
+    console.log(abstract);
+    // console.log(checkFacultiesBasedOnKeywords(abstract));
+
+    let keysFromText=getKeywordsFromText(abstract.toLowerCase());
+
+
     if(keyWord){
     let facultyNames=checkFacultiesBasedOnKeywords(keyWord);
     if(facultyNames.length>0){
