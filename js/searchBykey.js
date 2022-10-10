@@ -1,5 +1,6 @@
 import tree3 from '../JSONs/tree3.json' assert {type: 'json'};;
 import facultyAbstracts from '../JSONs/PI_Abstract.json' assert {type: 'json'};
+import keyFacMapper from '../JSONs/keyFacMapper.json' assert {type: 'json'};
 
 function checkFacultiesBasedOnKeywords(keyWord) {
     const matchedFaculties = [];
@@ -36,55 +37,95 @@ const getKeyWordsFromText = (text) => {
         }
     }
 
-    
+
 
     return list_of_keywords;
 }
 
 
-const sortByScore=(keywords)=>{
-let facObj={};
-    for(let keyword of keywords){
-        let faNames=checkFacultiesBasedOnKeywords(keyword);
-        for(let i of faNames){
-            // console.log(i);
-            let name=i.firstName+" "+i.lastName;
-            if(facObj[name]){
-                facObj[name]+=1;
-            }
-            else{
-            facObj[name]=1;
+const sortByScore = (facWithScoreObj) => {
+    let sortedfacObj = {};
+    let facNamesArr=[];
+    const sorted = Object.keys(facWithScoreObj)
+        .sort((key1, key2) => facWithScoreObj[key2] - facWithScoreObj[key1])
+        .reduce(
+            (obj, key) => ({
+                ...obj,
+                [key]: facWithScoreObj[key]
+            }),
+            {}
+        )
+
+    for (let i in sorted) {
+        let name = i.split(' ');
+        let capName = [];
+        for (let nam of name) {
+            capName.push(capitalize(nam))
+        }   
+        console.log(capName.join(' '),"--",sorted[i]);
+
+        sortedfacObj[capName.join(' ')] = sorted[i];
+        facNamesArr.push(capName.join(' '));
+
+    }
+    return facNamesArr;
+}
+
+const getKeyOccurances = (keywords, content) => {
+    let keyOccCount = {};
+    for (let key of keywords) {
+        let regexp = new RegExp(`${key.toLowerCase()}`, 'gi');
+        let count = (content.toLowerCase().match(regexp) || []).length;
+        keyOccCount[key] = count;
+    }
+    return keyOccCount;
+}
+
+const scoreTheFaculty = (keyCountObj) => {
+    let facWithscore = {};
+    for (let [k, cnt] of Object.entries(keyCountObj)) {
+        if (keyFacMapper[k]) {
+            // console.log(keyFacMapper[k]);
+            for (let fac of keyFacMapper[k]) {
+                if (facWithscore[fac]) {
+                    facWithscore[fac] += (100 * (1 - (0.5) ** cnt)) / 0.5;
+                }
+                else {
+                    facWithscore[fac] = (100 * (1 - (0.5) ** cnt)) / 0.5;
+                }
             }
         }
     }
-    console.log(facObj);
+    return facWithscore;
 }
 
 document.getElementById('get-results').addEventListener('click', () => {
     const keyWord = document.getElementById('input-keyword').value;
 
     if (keyWord) {
-        let matchedWords = getKeyWordsFromText(keyWord);
-        console.log(matchedWords);
+        let matchedWords = getKeyWordsFromText(keyWord); //get keywords
+       
+        let keycountOccurances = getKeyOccurances(matchedWords, keyWord); // count no of times keywords repeated in input text
+       
+        let scoredFaculty = scoreTheFaculty(keycountOccurances); //apply formula for score here ( for faculty with keywords)
+        
+        let sortedFaculty = sortByScore(scoredFaculty);  //sort the formulated scores in desc ordr
+        console.log(sortedFaculty);
+        
 
-        let facultyNames = checkFacultiesBasedOnKeywords(keyWord);
-        let sortedFaculty=sortByScore(matchedWords);
 
-        if (facultyNames.length > 0) {
-            // document.getElementById("collapseOne").c=true;
+        if (sortedFaculty.length > 0) {
             document.getElementsByClassName("accordion-body")[0].innerHTML = ``;
-            let facultyHtmlContent = facultyNames.map((faculty, i) => `<tr>
+            let facultyHtmlContent = sortedFaculty.map((faculty, i) => `<tr>
          <th scope="row">${i}</th>
-         <td>${capitalize(faculty.firstName)}</td>
-         <td>${capitalize(faculty.lastName)}</td>
+         <td>${faculty}</td> 
          </tr>`);
 
             document.getElementById("results-accordian").innerHTML = `<table class="table table-hover">
         <thead>
         <tr>
           <th scope="col">#</th>
-          <th scope="col">First name</th>
-          <th scope="col">Last name</th>
+          <th scope="col">Name</th>
         </tr>
       </thead>
       <tbody>`+ facultyHtmlContent.join("") + `</tbody></table>`;
