@@ -7,8 +7,13 @@ export const loadOptions=()=>{
     let options = [];
     for(let [key] of Object.entries(tree3)){
         options.push(key);
+        if(key=='Artificial Intelligence'){
+        console.log(key);
+        }
     }
-    let optionsContent=  options.map(opt=>`<option value=${opt}>${opt}</option>`)
+    // console.log(options);
+    let optionsContent=  options.map(opt=>`<option value="${opt}">${opt}</option>`)
+    // console.log(optionsContent);
     document.getElementById("multi_dropdown").innerHTML=optionsContent.join("");
 }
 
@@ -25,9 +30,11 @@ export const resetDropDown=()=>{
 
 function checkFacultiesBasedOnKeywords(keyWord) {
     const matchedFaculties = [];
+    console.log(keyWord);
 
     Object.entries(facultyAbstracts).reduce((matchedFaculties, [key, abstract]) => {
         if (abstract.toLowerCase().includes(keyWord.toLowerCase())) {
+              
             const facultyName = key.split(' ');
             matchedFaculties.push({ firstName: facultyName[0]||"", lastName: facultyName[1]||"" });
         }
