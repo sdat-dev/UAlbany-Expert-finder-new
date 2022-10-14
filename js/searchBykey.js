@@ -1,7 +1,8 @@
 import tree3 from '../JSONs/tree3.json' assert {type: 'json'};;
 import facultyAbstracts from '../JSONs/PI_Abstract.json' assert {type: 'json'};
-import keyFacMapper from '../JSONs/keyFacMapper.json' assert {type: 'json'};
 import profNameTFIDFscore from '../JSONs/ProfnameTFIDFscore.json' assert {type: 'json'};
+import keyFacMapper from '../JSONs/keyFacMapper.json' assert {type: 'json'};
+
 // import {TfIdf} from '../js/TFIDF.js';
 // const natural = require('natural')
 //  const TfIdf = natural.TfIdf;
