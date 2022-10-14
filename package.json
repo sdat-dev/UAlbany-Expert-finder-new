@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sdat-dev/UAlbanyExpertFinder.github.io/issues"
   },
-  "homepage": "https://github.com/sdat-dev/UAlbanyExpertFinder.github.io#readme"
+  "homepage": "https://github.com/sdat-dev/UAlbanyExpertFinder.github.io#readme",
+  "dependencies": {
+    "natural": "^5.2.3",
+    "browserify": "^17.0.0"
+  }
 }
