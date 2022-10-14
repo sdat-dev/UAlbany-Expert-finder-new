@@ -17,6 +17,7 @@ function checkFacultiesBasedOnKeywords(keyWord) {
         return matchedFaculties;
     }, matchedFaculties);
     return matchedFaculties;
+
 }
 
 const capitalize = (word) => {
