@@ -1,0 +1,100 @@
+{
+    "affiliation": [
+        {
+            "affiliation-city": "Wuhan",
+            "affilname": "Huazhong Agricultural University",
+            "affiliation-country": "China"
+        },
+        {
+            "affiliation-city": "Atlanta",
+            "affilname": "Georgia Institute of Technology",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Tubingen",
+            "affilname": "Eberhard Karls Universität Tübingen",
+            "affiliation-country": "Germany"
+        },
+        {
+            "affiliation-city": "Albany",
+            "affilname": "State University of New York Albany",
+            "affiliation-country": "United States"
+        },
+        {
+            "affiliation-city": "Nanchang",
+            "affilname": "Jiangxi Agricultural University",
+            "affiliation-country": "China"
+        }
+    ],
+    "coredata": {
+        "srctype": "j",
+        "eid": "2-s2.0-85127484491",
+        "prism:coverDate": "2023-03-01",
+        "prism:aggregationType": "Journal",
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85127484491",
+        "subtypeDescription": "Article",
+        "dc:creator": {
+            "author": [
+                {
+                    "ce:given-name": "Lingqun",
+                    "preferred-name": {
+                        "ce:given-name": "Lingqun",
+                        "ce:initials": "L.",
+                        "ce:surname": "Zeng",
+                        "ce:indexed-name": "Zeng L."
+                    },
+                    "@seq": "1",
+                    "ce:initials": "L.",
+                    "@_fa": "true",
+                    "affiliation": [
+                        {
+                            "@id": "60032955",
+                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60032955"
+                        },
+                        {
+                            "@id": "60011666",
+                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60011666"
+                        }
+                    ],
+                    "ce:surname": "Zeng",
+                    "@auid": "57216492757",
+                    "author-url": "https://api.elsevier.com/content/author/author_id/57216492757",
+                    "ce:indexed-name": "Zeng L."
+                }
+            ]
+        },
+        "link": [
+            {
+                "@_fa": "true",
+                "@rel": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85127484491"
+            },
+            {
+                "@_fa": "true",
+                "@rel": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85127484491&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@rel": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85127484491&origin=inward"
+            }
+        ],
+        "prism:publicationName": "Journal of Environmental Sciences (China)",
+        "source-id": "23393",
+        "pii": "S1001074222001504",
+        "citedby-count": "0",
+        "prism:volume": "125",
+        "subtype": "ar",
+        "prism:pageRange": "691-700",
+        "dc:title": "Simultaneous oxidation of Mn(II) and As(III) on cupric oxide (CuO) promotes As(III) removal at circumneutral pH",
+        "prism:endingPage": "700",
+        "openaccess": "0",
+        "openaccessFlag": "false",
+        "prism:doi": "10.1016/j.jes.2022.03.031",
+        "prism:issn": "18787320 10010742",
+        "prism:startingPage": "691",
+        "dc:identifier": "SCOPUS_ID:85127484491",
+        "dc:publisher": "Chinese Academy of Sciences"
+    }
+}

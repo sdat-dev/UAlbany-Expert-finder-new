@@ -1,1 +1,8 @@
 node_modules
+
+JSONs/claveriteFormated.json
+JSONs/scopus_wos_clean.json
+JSONs/UalbanyScopusFacData.json
+JSONs/webFacMapper.json
+JSONs/wos_scopus_data.json
+JSONs/wos_scopus_ids.json
