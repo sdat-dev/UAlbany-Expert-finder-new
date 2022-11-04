@@ -2,7 +2,7 @@ import abs from './JSONs/scopusExpertfinderPIKeys.json' assert {type: 'json'};
 
 export const loadOptions = () => {
     let options = getLastNameOptions()
-    let defOption = `<option value="s">Choose LastName</option>`
+    let defOption = `<option value="s">Choose last name</option>`
     let optionsContent = options.map(opt => `<option value="${opt}">${opt}</option>`)
     let newOptions = [defOption];
     newOptions = newOptions.concat(optionsContent);
@@ -44,7 +44,7 @@ export const getLastNameOptions = () => {
 export function getLastNameOptionsWrapper() {
     const lastName = document.getElementById("multi_dropdown")?.value ?? ""
     const options = getFirstNameOptions(lastName)
-    let defOption1 = `<option value="s">Choose FirstName</option>`
+    let defOption1 = `<option value="s">Choose first name</option>`
     let newOptions1 = [defOption1];
     const optionsContent1 = options.map(opt => `<option value="${opt}">${opt}</option>`)
     newOptions1 = newOptions1.concat(optionsContent1);
@@ -65,6 +65,7 @@ export const resetDropDown = () => {
     $('#multi_dropdown').selectpicker('refresh');
     $('#multi_dropdown1').val('deselectAll');
     $('#multi_dropdown1').selectpicker('refresh');
+    document.getElementById("accordian-content").innerHTML = `<p>There are no matches for the given input</p>`;
 }
 
 export const getVals = () => {

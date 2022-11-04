@@ -26,6 +26,7 @@ export const main=(ele, event)=>{
 export const resetDropDown=()=>{
     $('.multiple-picker-ex').selectpicker('deselectAll');
     $('.multiple-picker-ex').selectpicker('refresh');
+    document.getElementById("multi-accordian-content").innerHTML=`<p>There are no matches for the given input</p>`;
 }
 
 function checkFacultiesBasedOnKeywords(keyWord) {
