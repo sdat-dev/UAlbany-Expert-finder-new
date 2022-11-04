@@ -1,4 +1,5 @@
 node_modules
+JSONs/wos_scopus.json
 
 JSONs/claveriteFormated.json
 JSONs/scopus_wos_clean.json
