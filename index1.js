@@ -1,4 +1,4 @@
-import { getLastNameOptions,getFirstNameOptions,getVals,loadOptions,getLastNameOptionsWrapper,getFirstNameOptionsWrapper,resetDropDown } from "./searchByNames.js";
+import { getLastNameOptions,getFirstNameOptions,getVals,loadOptions,getLastNameOptionsWrapper,getFirstNameOptionsWrapper,resetDropDown,getOptions } from "./searchByNames.js";
 
 
 window.getLastNameOptions=getLastNameOptions;
@@ -8,3 +8,4 @@ window.resetDropDown=resetDropDown;
 window.loadOptions=loadOptions;
 window.getLastNameOptionsWrapper=getLastNameOptionsWrapper;
 window.getFirstNameOptionsWrapper=getFirstNameOptionsWrapper;
+window.getOptions=getOptions;
