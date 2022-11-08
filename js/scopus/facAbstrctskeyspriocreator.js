@@ -23,7 +23,12 @@ const mapKeywordswithScore =(abstract,priority)=>{
 
     let keywithscore={};
     for(let [k,v] of Object.entries(tree3)){
-        if(abstract.toLowerCase().includes(k.toLowerCase())){
+        let matchIndex=abstract.toLowerCase().indexOf(k.toLowerCase());
+        if(matchIndex!=-1 && (abstract.charAt(matchIndex-1) ===' ' && abstract.charAt(matchIndex+(k.length)) ===' ') ){
+            //console.log(abstract.toLowerCase().indexOf(k.toLowerCase()), 'INDEX');
+          //  console.log(abstract);
+         //   let ind= parseInt( abstract.toLowerCase().indexOf(k.toLowerCase()));
+          // console.log(abstract.charAt(ind-2),abstract.charAt(ind-1), "--",abstract.charAt(ind+(k.length)+1),abstract.charAt(ind+(k.length)+2));
                 keywithscore[k]=formulaKeyscore(abstract.toLowerCase(),k.toLowerCase(),priority);
         }
     }
@@ -31,6 +36,7 @@ const mapKeywordswithScore =(abstract,priority)=>{
 }
 
 let facNameAbs={}
+let c=0;
 for(let obj of scopus){
     if(facNameAbs[obj['UAuthors']]){
         let temp = facNameAbs[obj['UAuthors']];
@@ -48,6 +54,10 @@ for(let obj of scopus){
         newObj.keywordsWithScore=mapKeywordswithScore(obj['abstract'])
         facNameAbs[obj['UAuthors']] = [newObj];
     }
+    // c+=1;
+    // if(c==200){
+    //     break;
+    // }
 }
 
 //console.log( JSON.stringify( facNameAbs));
