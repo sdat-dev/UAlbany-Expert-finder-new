@@ -26,4 +26,17 @@ function convertToJSON(array) {
   
   let jsondata = convertToJSON(datapart);
 
-  console.log(JSON.stringify(jsondata));
+  //console.log(JSON.stringify(jsondata));
+
+let newFac600Records=[];
+
+  for(let obj of jsondata){
+    let newObj={};
+    let name= obj['LNAME'] + " " + obj['FNAME'];
+    newObj[name] = obj;
+    newFac600Records.push(newObj);
+  }
+
+  // console.log(JSON.stringify(newFac600Records));
+
+  fs.writeFileSync("../../JSONs/current600+faculty.json",JSON.stringify(newFac600Records));

@@ -1,9 +1,18 @@
 import abs from './JSONs/scopusExpertfinderPIKeys.json' assert {type: 'json'};
+import cuurentFaculty600 from './JSONs/current600+faculty.json' assert {type:'json'}
+
 
 const getFullNamesOptions = () => {
-    const options = Object.keys(abs)
+    const options = Object.keys(abs)  //this is combined data names
+
+    let CurrentFacoptions=[];
+    for(let obj of cuurentFaculty600){
+        CurrentFacoptions.push(Object.keys(obj)[0]);  //this is faculty data of current 600+
+    }
+
+
     const defOption = `<option value="s">Choose a Name</option>`
-    const optionsContent = options.map(opt => `<option value="${opt}">${opt}</option>`)
+    const optionsContent = CurrentFacoptions.map(opt => `<option value="${opt}">${opt}</option>`)
     const newOptions = [defOption, ...optionsContent]
     return newOptions
 }
