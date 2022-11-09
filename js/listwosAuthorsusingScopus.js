@@ -11,19 +11,93 @@
 // "Author.s..ID":"57210522273",
 // "abstract":"Building models directly with client groups has become increasingly common in the field of system dynamics. For the past nine years, the modeling group at the University at Albany has been experimenting with techniques handling the complex modeling and facilitation processes involved in group work. This article extends the previously reported work by discussing specific scripted techniques used to implement the group modeling building approach. The authors' purpose is to initiate a larger discussion of shared scripts and techniques for group model building. The discussion is divided into planning for a group model building conference, scheduling the day, particular scripts and techniques for various group model building tasks, and closing a group modeling conference. © 1997 by John Wiley & Sons, Ltd.","subject.area":"Social Sciences","author.keywords":"null","document.type":"Article","cited.by":"302","funding.details":"null","conference.name":"null","conference.date":"null"}
 
-
-
- const scopusAuthorsData = require('../JSONs/UalbanyScopusFacData.json');
-
+const StreamArray = require('stream-json/streamers/StreamArray');
+const { Writable } = require('stream');
+const fs = require('fs');
 const stringSimilarity = require("string-similarity");
+let JSONStream = require("JSONStream");
 
-let c=0;
-for(let obj of scopusAuthorsData){
-    let wosNames = obj['Author Full Names_wos'].split(";").map(e=>e.trim());
-    let bestMatch = stringSimilarity.findBestMatch(obj['UAuthors'], wosNames);
-    console.log(bestMatch);
-    c+=1;
-    if(c==50){
-        break;
-    }
+//const scopusAuthorsData = require('../JSONs/UalbanyScopusFacData.json');
+
+
+
+
+const fileStream = fs.createReadStream('../JSONs/UalbanyScopusFacData.json');
+const jsonStream = StreamArray.withParser();
+
+
+let newWosName = [];
+
+const readData = async () => {
+
+    const processingStream = new Writable({
+        write({ key, value }, encoding, callback) {
+
+            //some async operations
+
+            //console.log(value);
+            let newVal = { ...value, UwosAuthor: null };
+            if (value['Author Full Names_wos'] != 'null') {
+                let wosAuthors = value['Author Full Names_wos'].split(";").map(e => e.trim())
+                let tempwosAuth = wosAuthors.map(e => e.toLowerCase());
+                //   console.log(value['UAuthors'], "scopus name");
+                //  console.log(wosAuthors);
+                let bestMatch = stringSimilarity.findBestMatch(value['UAuthors'].toLowerCase(), tempwosAuth);
+                //  console.log(bestMatch.bestMatch.target);
+                // console.log( wosAuthors[bestMatch.bestMatchIndex]);
+                newVal.UwosAuthor = wosAuthors[bestMatch.bestMatchIndex];
+
+            }
+
+            // console.log(newVal);
+            newWosName.push(newVal);
+
+            // console.log("-----------------------");
+
+
+            // if (key === 40) {
+            //     return;
+            // }
+            //Runs one at a time, need to use a callback for that part to work
+            callback();
+
+        },
+        //Don't skip this, as we need to operate with objects, not buffers
+        objectMode: true
+    });
+
+
+    fileStream.pipe(jsonStream.input);
+    jsonStream.pipe(processingStream);
+    processingStream.on('finish', () => {
+
+        // fs.writeFileSync('../JSONs/wosNameinCombined.json',JSON.stringify(newScopusName))
+        let transformStream = JSONStream.stringify();
+        let outputStream = fs.createWriteStream("../JSONs/wosNameinCombined.json");
+        transformStream.pipe(outputStream);
+        newWosName.forEach(transformStream.write);
+        transformStream.end();
+        outputStream.on(
+            "finish",
+            function handleFinish() {
+                console.log("Done");
+            }
+        );
+
+        console.log('All done')
+
+
+
+    });
 }
+
+
+
+const processFlow = async () => {
+    await readData();
+  
+
+}
+
+processFlow();
+

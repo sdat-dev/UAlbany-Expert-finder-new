@@ -1,0 +1,642 @@
+LNAME,FNAME,ALIAS_FNAME,TITLE,CAMPUS_TITLE,Email,DEPARTMENT_DIVI,DEPARTMENT_SCHO,Dept Desc,Emply Title,RPTG_DEPT_NM
+Jurkowski,Janine,Janine,Professor  10 Months,Prof/AssocDean PubHlthPra,jjurkowski@albany.edu,ACAD AFFAIRS,PUB HEALTH,Health Policy,FACULTY,School of Public Health Continuing Education
+Rodgers,Carol,Carol,Professor  10 Months,Professor,crodgers@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Cumming,Duncan,Duncan,Professor  10 Months,Associate Professor,dcumming@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Music and Theatre,FACULTY,Music and Theatre
+Dozier,Cheryl,Cheryl,Asso Prof 10,Associate Professor (10 Mo),cdozier@albany.edu,ACAD AFFAIRS,EDUCATION,Literacy Teaching and Learning,FACULTY,Literacy Teaching and Learning
+Earle,Keith,Keith,Asso Prof 10,Assoc Professor and Chair,kearle@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Forsyth,John,John,Professor  10 Months,Professor 10 Months,forsyth@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Rafferty,Sean,Sean,Asso Prof 10,Associate Professor   10 Month,srafferty@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Lenart,Cristian,Cristian,Professor  10 Months,Professor & Chair,clenart@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Schell,Lawrence,Lawrence,Dstg Prof 10,Distgd Prof/Dir CEMHD & Hmn Bio,lmschell@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Hosler,Akiko,Akiko,Asso Prof 10,Associate Professor 10 Months,ahosler@albany.edu,ACAD AFFAIRS,PUB HEALTH,Epidemiology & Biostatistics,FACULTY,Epidemiology & Biostatistics
+Elam,Helen,Helen,Asso Prof 10,Associate Professor,helam@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Lyons,Andi,Andi,Professor  10 Months,Professor 10 Months,andi@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Music and Theatre,FACULTY,Music and Theatre
+Masters,Adrian,Adrian,Professor  10 Months,Professor,amasters@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Cunningham,Richard,Richard,Professor  10 Months,"Prof & Chair, Biological Sci",rcunningham@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Keenaghan,Eric,Eric,Asso Prof 10,Associate Professor & Chair,ekeenaghan@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Corbosiero,Kristen,Kristen,Asso Prof 10,Associate Professor,kcorbosiero@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Loscocco,Karyn,Karyn,Professor  10 Months,Professor 10 Months,kloscocco@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Yan,Zheng,Zheng,Professor  10 Months,Professor,zyan@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Psychology & Method,FACULTY,Educational Psychology & Method
+Cohen,Sarah,Sarah,Professor  10 Months,Professor and Chair,scohen@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Art & Art History,FACULTY,Art & Art History
+Manganello,Jennifer,Jennifer,Professor  10 Months,Professor,jmanganello@albany.edu,ACAD AFFAIRS,PUB HEALTH,Health Policy,FACULTY,Health Policy
+Briar-Lawson,Katharine,Katharine,Professor  10 Months,Professor 10 Months,kbriarlawson@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Szalczer,Eszter,Eszter,Professor  10 Months,Professor 10 Months,eszalczer@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Music and Theatre,FACULTY,Music and Theatre
+Fisher,Ingrid,Ingrid,Asso Prof 10,Associate Professor (10 Mo),ifisher@albany.edu,ACAD AFFAIRS,BUSINESS,Accounting and Law,FACULTY,Accounting and Law
+Gil-Garcia,Jose,J Ramon,Asso Prof 12,"Assoc Prof, PAD/Rsrch Dir, CTG",jgil-garcia@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Center for Technology in Government
+Lahiri,Kajal,Kajal,Dstg Prof 10,Distinguished Professor,klahiri@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Rodriguez,Carlos,Carlos,Asso Prof 10,Associate Professor,crodriguez@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Rich,Eliot,Eliot,Asso Prof 10,Associate Professor   10 Month,erich2@albany.edu,ACAD AFFAIRS,BUSINESS,Information Systems & Business Analytics,FACULTY,Information Systems & Business Analytics
+Lanford,William,William,Professor  10 Months,Professor/Undergrad Dir Physic,wlanford@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Tillman,Lynne,Lynne,Professor  10 Months,Professor 10 Months,ltillman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Li,Pan,Pan,Asso Prof 10,Associate Professor,pli@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Vogel,Matthew,Matt,Asso Prof 10,Associate Professor 10 Months,mvogel@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Hobson,Janell,Janell,Professor  10 Months,Professor,jhobson@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,"Women's, Gender, and Sexuality Studies",FACULTY,"Women's, Gender, and Sexuality Studies"
+Polk,John,John,Asso Prof 10,Assoc Prof & Dir Human Bio,jpolk@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Meyer,Heinz,Heinz,Professor  10 Months,Professor 10 Months,hmeyer@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Policy & Leadership,FACULTY,Educational Policy & Leadership
+Valachovic,Edward,Edward,Asst Prof 10,Assistant Professor,evalachovic@albany.edu,ACAD AFFAIRS,PUB HEALTH,Epidemiology & Biostatistics,FACULTY,Epidemiology & Biostatistics
+Kuan,Tung,T,Professor  10 Months,Professor,tkuan@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Roberts,Nancy,Nancy,Professor  10 Months,Professor & Dir. of Journalism,nroberts@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Dutta,Aveek,Aveek,Asst Prof 10,Assistant Professor 10 Months,adutta@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Electrical & Computer Engineering,FACULTY,Electrical & Computer Engineering
+Scheck,Helene,Helene,Asso Prof 10,Associate Professor 10 Months,hscheck@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Levy,Daniel,Daniel,Dstg Prof 10,Distinguished Professor,dlevy@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Policy & Leadership,FACULTY,Educational Policy & Leadership
+Varisco,Marco,Marco,Asso Prof 10,Associate Professor,mvarisco@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Saha,Dola,Dola,Asst Prof 10,Assistant Professor 10 Months,dsaha@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Electrical & Computer Engineering,FACULTY,Electrical & Computer Engineering
+Ernst,Jesse,Jesse,Asso Prof 10,Assoc Professor 10 Months,jae@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Golden,Annis,Annis,Asso Prof 10,Associate Professor,agolden@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Worden,Robert,Robert,Asso Prof 10,Associate Professor,rworden@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Lifchitz,Max,Max,Professor  10 Months,Professor,mlifchitz@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Music and Theatre,FACULTY,Music and Theatre
+Kennedy,William,William,Professor  10 Months,Professor & Exec Dir NYSWI,wkennedy@albany.edu,ACAD AFFAIRS,ACAD ADMIN,NYS Writers Institute,FACULTY,NYS Writers Institute
+Narendran,Paliath,Paliath,Professor  10 Months,Professor,pnarendran@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Barney,Richard,Richard,Asso Prof 10,Associate Professor,rbarney@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Friedman,Sally,Sally,Asso Prof 10,Associate Professor,sfriedman2@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Stefl-Mabry,Joette,Joette,Professor  10 Months,Professor,jstefl@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,Educational Theory & Practice
+Ramos,Blanca,Blanca,Asso Prof 10,Assoc Prof/Dir Undergrad Prg,bramos@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Deblasi,Anthony,Anthony,Asso Prof 10,Assoc Professor 10 Months,adeblasi@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,East Asian Studies,FACULTY,East Asian Studies
+Yang,Rongwei,Rongwei,Professor  10 Months,Professor,ryang@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Lee,Eunju,Eunju,Asso Prof 10,Associate Professor,elee@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Shea,Peter,Peter,Professor  10 Months,Asc Provost Online Education,pshea@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Andrade,Heidi,Heidi,Professor  10 Months,Professor,handrade@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Psychology & Method,FACULTY,Educational Psychology & Method
+Muraven,Mark,Mark,Professor  10 Months,Professor & Chair,mmuraven@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Holloway,Heather,Heather,Asso Prof 10,Associate Professor  10 Months,hlarkin@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Zahavi,Gerald,Gerald,Professor  10 Months,Prof/Dir Doc Studies & Pub His,gzahavi@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Saddler,Kristie,Kristie,Asso Prof 10,Associate Professor 10 Months,ksaddler@albany.edu,ACAD AFFAIRS,EDUCATION,Special Education,FACULTY,Special Education
+Fox,Cynthia,Cynthia,Asso Prof 10,Associate Professor 10 Months,cfox@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,"Languages, Lits. & Cultures",FACULTY,"Languages, Lits. & Cultures"
+Bushway,Shawn,Shawn,Professor  10 Months,Professor 10 Months,sbushway@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Center for Policy Research
+Gluck,Robert,Robert,Professor  10 Months,Professor 10 Months,rgluck@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Music and Theatre,FACULTY,Music and Theatre
+Bell,Erin,Erin,Professor  10 Months,Professor,ebell@albany.edu,ACAD AFFAIRS,PUB HEALTH,Environmental Health Sciences,FACULTY,Environmental Health Sciences
+Kuznetsov,Igor,Igor,Asso Prof 10,Assoc Professor 10 Months,ikuznetsov@albany.edu,ACAD AFFAIRS,PUB HEALTH,Epidemiology & Biostatistics,FACULTY,Epidemiology & Biostatistics
+Iyer,Hemalata,Hemalata,Asso Prof 10,Associate Professor   10 Month,hiyer@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Lapenas,Andrei,Andrei,Professor  10 Months,"Prof/Chair, Dir Geo MA Program",alapenas@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Geography & Planning,FACULTY,Geography & Planning
+Luna-Reyes,Luis,Luis,Professor  10 Months,Professor 10 Months,lluna-reyes@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Berman,Jeffrey,Jeffrey,Dstg Tchg Prof 10,Distinguished Teaching Profess,jberman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Miller,David,David,Professor  10 Months,Professor,dmiller@albany.edu,ACAD AFFAIRS,EDUCATION,School Psychology Program,FACULTY,Educational Psychology & Method
+Burrell,Jennifer,Jennifer,Asso Prof 10,Associate Professor   10 Month,jburrell@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Abolafia,Mitchel,Mitchel,Professor  10 Months,Professor 10 Months,mabolafia@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Rizzo,Victoria,Victoria,Professor  10 Months,Professor,vmrizzo@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Dewar,Diane,Diane,Asso Prof 10,Assoc Professor,ddewar@albany.edu,ACAD AFFAIRS,PUB HEALTH,Health Policy,FACULTY,Health Policy
+Andam,Cheryl Marie,Cheryl,Asst Prof 10,Assistant Professor 10 Months,candam@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Nussbaum,Brian,Brian,Asst Prof 10,Assistant Professor,bnussbaum@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Kareklas,Ioannis,Ioannis,Asso Prof 10,Associate Professor,ikareklas@albany.edu,ACAD AFFAIRS,BUSINESS,Marketing,FACULTY,Marketing
+Sayahi,Lotfi,Lotfi,Professor  10 Months,Professor& Chair,lsayahi@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,"Languages, Lits. & Cultures",FACULTY,"Languages, Lits. & Cultures"
+Shi,Hua,Hua,Asso Prof 10,Associate Professor   10 Month,hshi@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Bangert-Drowns,Robert,Robert,Asso Prof 10,Associate Professor,rbangert-drowns@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Psychology & Method,FACULTY,Educational Psychology & Method
+Stephen,Timothy,Timothy,Professor  10 Months,Full Professor,tstephen@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Kaufman,Joanne,Joanne,Asso Prof 10,Associate Professor   10 Month,jkaufman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Dawson,Alexander,Alexander,Professor  10 Months,Professor,asdawson@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Rosenswig,Robert,Robert,Professor  10 Months,"Professor/Dir, Inst Meso Stud",rrosenswig@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Pande,Jayanti,Jayanti,Asso Prof 10,Associate Professor,jpande@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Malbin,Michael,Michael,Professor  10 Months,Professor 10 Months,mmalbin@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Begley,Thomas,Thomas,Professor  10 Months,Professor 10 Months,tbegley@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Wang,Wei,Wei-Chyung,Professor  10 Months,Professor,wcwang@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,FACULTY,Atmospheric Sciences Rsch Center
+Rousseau,David,David,Asso Prof 10,Associate Professor 10 Months,drousseau@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Lawrence,Catherine,Catherine,Asso Prof 10,Associate Professor,clawrence@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Wilcox,Kristen,Kristen,Asso Prof 10,Associate Professor (10 Mo),kwilcox1@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Policy & Leadership,FACULTY,Educational Policy & Leadership
+Kostelnik,Callen,Callen,Clin Asst Prof 12,Clinical Assistant Professor (12 Month),CKostelnik@albany.edu,ACAD AFFAIRS,EDUCATION,School Psychology Program,FACULTY,Educational Psychology & Method
+Zhu,Kehe,Kehe,Professor  10 Months,Professor,kzhu@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Milas,Antun,Antun,Professor  10 Months,Professor,amilas@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Chung,Angie,Angie,Professor  10 Months,Professor,aychung@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Isralowitz,Joshua,Joshua,Asso Prof 10,Associate Professor,jisralowitz@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Lewis,David,David,Asso Prof 10,Assoc Prof./Dir Urban Stud BA,dalewis@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Geography & Planning,FACULTY,Geography & Planning
+Stessin,Michael,Michael,Professor  10 Months,Professor,mstessin@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Goel,Sanjay,Sanjay,Professor  10 Months,Professor,goel@albany.edu,ACAD AFFAIRS,BUSINESS,Information Security & Digital Forensics,FACULTY,Provost & VP- Academic Affairs
+Marler,Janet,Janet,Professor  10 Months,Professor 10 Months,jmarler@albany.edu,ACAD AFFAIRS,BUSINESS,Management,FACULTY,Management
+Sutherland,Marcia,Marcia,Asso Prof 10,Associate Professor & Chair,msutherland@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Africana Studies,FACULTY,Africana Studies
+Friedman,Ronald,Ronald,Professor  10 Months,Professor,rfriedman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Krosby,H,H  Peter,Professor  10 Months,Professor,hkrosby@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Plotnick,Steven,Steven,Asso Prof 10,"Assoc Prof/UG Dir, Math/Stats",splotnick@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Pogarsky,Greg,Greg,Professor  10 Months,Professor,gpogarsky@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Yuan,Xiaojun,Xiaojun,Asso Prof 10,Associate Professor (10 Mo),xyuan@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Hessler,Kristen,Kristen,Asso Prof 10,Associate Professor   10 Month,khessler@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Philosophy,FACULTY,Philosophy
+Koslowski,Reynold,Rey,Professor  10 Months,Professor,rkoslowski@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Frelin,Adam,Adam,Asso Prof 10,Associate Professor   10 Month,afrelin@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Art & Art History,FACULTY,Art & Art History
+Mandle,Jonathan,Jonathan,Professor  10 Months,Professor 10 Months,jmandle@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Philosophy,FACULTY,Philosophy
+Burkhart,Louise,Louise,Professor  10 Months,Professor,lburkhart@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Schoolman,Morton,Morton,Professor  10 Months,Professor 10 Months,mschoolman@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Hildebrand,Martin,Martin,Professor  10 Months,Professor 10 Months,mhildebrand@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Schwarzschild,Edward,Edward,Professor  10 Months,Professor,eschwarzschild@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Tayi,Giri,Giri Kumar,Professor  10 Months,Professor,gtayi@albany.edu,ACAD AFFAIRS,BUSINESS,Information Systems & Business Analytics,FACULTY,Information Systems & Business Analytics
+Conklin,Douglas,Douglas,Asso Prof 10,Associate Professor (10 Mo),dconklin@albany.edu,ACAD AFFAIRS,PUB HEALTH,Biomedical Science,FACULTY,Biomedical Science
+Yagelski,Robert,Robert,Professor  10 Months,Endowed Professor,ryagelski@albany.edu,ACAD AFFAIRS,UNDERGRAD,Writing and Critical Inquiry,FACULTY,Writing and Critical Inquiry
+Nold,Patrick,Patrick,Professor  10 Months,Professor & Chair,pnold@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Chen,Cheng,Cheng,Professor  10 Months,Professor (10 Mo),cchen@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Loneck,Barry,Barry,Asso Prof 10,Associate Professor,bloneck@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Shekhtman,Alexander,Alexander,Professor  10 Months,Professor & Chair,ashekhtman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Quinn,Kevin,Kevin,Asso Prof 10,Asc Prof&Dir Chld Rch&Stdy Ctr,kquinn@albany.edu,ACAD AFFAIRS,EDUCATION,Special Education,FACULTY,Special Education
+Kranich,Laurence,Laurence,Asso Prof 10,Assoc Professor 10 Months,lkranich@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Lednev,Igor,Igor,Dstg Prof 10,Professor 10 Months,ilednev@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Barberich,Michael,Michael,Vstng Asst Prof 10m,Visiting Assistant Professor,mbarberich@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Miller,Robert,Robert,Asso Prof 10,Associate Professor  10 Months,rmiller@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Goldfarb,Boris,Boris,Asso Prof 10,Associate Professor   10 Month,bgoldfarb@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Smith,David,David,Professor  10 Months,"Prof./Dir, CIM",dsmith@albany.edu,ACAD AFFAIRS,BUSINESS,Finance,FACULTY,Finance
+Carson,Joanne,JoAnne,Professor  12 Months,O'Leary Professor,jcarson@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Art & Art History,FACULTY,Art & Art History
+Asal,Victor,Victor,Professor  10 Months,Professor and Chair,vasal@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Weller,Wendy,Wendy,Asso Prof 10,Associate Professor   10 Month,wweller@albany.edu,ACAD AFFAIRS,PUB HEALTH,Health Policy,FACULTY,Health Policy
+Friedlander,Myrna,Myrna,Professor  10 Months,Professor,mfriedlander@albany.edu,ACAD AFFAIRS,EDUCATION,Counseling Psychology,FACULTY,Counseling Psychology
+Toscano,Paul,Paul,Asso Prof 10,Associate Professor,ptoscano@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Shepherdson,Charles,Charles,Professor  10 Months,Professor,cshepherdson@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Young,Yuchi,Yuchi,Asso Prof 10,Assoc Professor 10 Months,yyoung@albany.edu,ACAD AFFAIRS,PUB HEALTH,Health Policy,FACULTY,Health Policy
+Eppard,Philip,Philip,Professor  10 Months,Professor 10 Months,peppard@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Kressner,Ilka,Ilka,Asso Prof 10,Associate Professor,ikressner@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,"Languages, Lits. & Cultures",FACULTY,"Languages, Lits. & Cultures"
+Hardiman,Eric,Eric,Asso Prof 10,Associate  Professor (10 Mo),hardiman@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Chengalur-Smith,Indushobha,Shobha,Professor  10 Months,Professor,shobha@albany.edu,ACAD AFFAIRS,BUSINESS,Information Systems & Business Analytics,FACULTY,Information Systems & Business Analytics
+Horton,Hayward,Hayward,Professor  10 Months,Professor 10 Months,hdhorton@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Masson,Marilyn,Marilyn,Professor  10 Months,Professor and Chair,mmasson@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Bailey,Frankie,Frankie,Professor  10 Months,Professor,fybailey@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Wulfert,Edelgard,Edelgard,Dstg Svc Prof  10m,Distinguished Service Professor,ewulfert@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Pelosi,Olimpia,Olimpia,Asso Prof 10,Associate Professor,opelosi@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,"Languages, Lits. & Cultures",FACULTY,"Languages, Lits. & Cultures"
+Jacobs,Ronald,Ronald,Professor  10 Months,Professor 10 Months,rjacobs@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Ellis,Michael,Michael,Professor  10 Months,Professor,mvellis@albany.edu,ACAD AFFAIRS,EDUCATION,Counseling Psychology,FACULTY,Counseling Psychology
+Hamm,Richard,Richard,Dstg Prof 10,Distinguished Professor,rhamm@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Dudek,Bruce,Bruce,Professor  10 Months,Professor,bdudek@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Worden,Alissa,Alissa,Asso Prof 10,Associate Professor,aworden@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Bass,Thomas,Thomas,Professor  10 Months,Professor,tbass@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Dai,David,David,Professor  10 Months,Professor,ydai@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Psychology & Method,FACULTY,Educational Psychology & Method
+Meskill,Carla,Carla,Professor  10 Months,Professor,cmeskill@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Chandra,Uday,Uday,Asso Prof 10,Associate Professor  10 Months,uchandra@albany.edu,ACAD AFFAIRS,BUSINESS,Accounting and Law,FACULTY,Accounting and Law
+Reinhold-Larsson,Karin,Karin,Asso Prof 10,Assoc Professor 10 Months,reinhold@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Shawky,Hany,Hany,Professor  10 Months,Professor,hshawky@albany.edu,ACAD AFFAIRS,BUSINESS,Finance,FACULTY,Finance
+Saddler,Bruce,Bruce,Asso Prof 10,Associate Professor   10 Month,bsaddler@albany.edu,ACAD AFFAIRS,EDUCATION,Special Education,FACULTY,Special Education
+Deane,Glenn,Glenn,Professor  10 Months,Professor 10 Months,gdeane@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Fessler,Susanna,Susanna,Professor  10 Months,Professor,sfessler@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,East Asian Studies,FACULTY,East Asian Studies
+Welch,John,John,Professor  10 Months,Professor 10 Months,jwelch@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Tchernev,Alexandre,Alexandre,Asso Prof 10,Associate Professor,atchernev@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Wissman,Kelly,Kelly,Asso Prof 10,Associate Professor,kwissman@albany.edu,ACAD AFFAIRS,EDUCATION,Literacy Teaching and Learning,FACULTY,Literacy Teaching and Learning
+Jerison,Michael,Michael,Professor  10 Months,Professor,mjerison@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Pridemore,William,William,Dstg Prof 10,Distinguished Professor 10 Month,pridemore@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Chen,Mei-Hwa,Mei-Hwa,Asso Prof 10,Assoc Professor 10 Months,mchen@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Little,Walter,Walter,Professor  10 Months,Professor,wlittle@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Srivastav,Anupam,Anupam,Asso Prof 10,Associate Professor,asrivastav@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Musah,Rabi,Rabi,Professor  10 Months,Professor,rmusah@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Yun,K,Kwan Koo,Professor  10 Months,Professor 10 Months,kyun@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Fortune,Anne,Ricky,Professor  10 Months,Professor 10 Months,rfortune@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Liang,Zai,Zai,Professor  10 Months,Professor 10 Months,zliang@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Wagner,Alan,Alan,Dstg Svc Prof  10m,Distinguished Service Professor,awagner@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Policy & Leadership,FACULTY,Educational Policy & Leadership
+Newman,Nancy,Nancy,Asso Prof 10,Associate Professor,nnewman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Music and Theatre,FACULTY,Music and Theatre
+Murakami,Ineke,Ineke,Asso Prof 10,Assoc Professor 10 Months,imurakami@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Horton,Heather,Heather,Asso Prof 10,Associate Professor   10 Month,hhorton@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Rosellini,Robert,Robert,Dstg Tchg Prof 10,Dist Teach Prof,rrosellini@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Sattinger,Michael,Michael,Professor  12 Months,O'Leary Professor,msattinger@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Christie,Leona,Leona,Asso Prof 10,Associate Professor (10 Mo),lchristie@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Art & Art History,FACULTY,Art & Art History
+Vergari,Sandra,Sandra,Asso Prof 10,Assoc Professor 10 Months,svergari@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Policy & Leadership,FACULTY,Educational Policy & Leadership
+Kizenko,Nadieszda,Nadieszda,Professor  10 Months,Professor,nkizenko@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Niu,Li,Li,Professor  10 Months,Professor,lniu@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Knuth,Kevin,Kevin,Asso Prof 10,Associate Professor   10 Month,kknuth@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Daniel,Betty,Betty,Professor  10 Months,Professor 10 Months,bdaniel@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Loftin,Colin,Colin,Dstg Prof 10,Distinguished Professor,cloftin@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Anderson,Drew,Drew,Asso Prof 10,Associate Professor,daanderson@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Zetka,James,James,Asso Prof 10,Associate Professor,jzetka@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Roch,Sylvia,Sylvia,Professor  10 Months,Professor,sroch@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Eubanks,Virginia,Virginia,Asso Prof 10,Assoc Professor 10 Months,veubanks@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Goodwin,Danny,Daniel,Professor  10 Months,Assoc Professor 10 Months,dgoodwin@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Art & Art History,FACULTY,Art & Art History
+Biswas,Rita,Rita,Asso Prof 10,Associate Professor,rbiswas@albany.edu,ACAD AFFAIRS,BUSINESS,Finance,FACULTY,Finance
+Benjamin,Bret,Bret,Asso Prof 10,Associate Professor   10 Month,bbenjamin@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+South,Scott,Scott,Dstg Prof 10,Distinguished Professor,ssouth@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Trent,Katherine,Katherine,Professor  10 Months,Professor 10 Months,ktrent@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Carpenter,David,David,Professor  10 Months,Professor,dcarpenter@albany.edu,ACAD AFFAIRS,PUB HEALTH,Environmental Health Sciences,FACULTY,Environmental Health Sciences
+Zhao,Rui,Rui,Asso Prof 10,Associate Professor   10 Month,rzhao@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Chang,Seokjoo,Seokjoo,Asso Prof 10,Associate Professor   10 Month,schang@albany.edu,ACAD AFFAIRS,BUSINESS,Accounting and Law,FACULTY,Accounting and Law
+Lnenicka,Gregory,Gregory,Professor  10 Months,Prof &Dir Ctr NeuroscnceResrch,gregl@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Magnus,Paul,P D,Professor  10 Months,Professor,pmagnus@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Philosophy,FACULTY,Philosophy
+Earleywine,Mitchell,Mitchell,Professor  10 Months,Professor,mearleywine@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Wang,Ing Nang,Ing-Nang,Asso Prof 10,Associate Professor   10 Month,iwang@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Sheehy,Margaret,Margaret,Asso Prof 10,Associate Professor,msheehy@albany.edu,ACAD AFFAIRS,EDUCATION,Literacy Teaching and Learning,FACULTY,Literacy Teaching and Learning
+Roundy,Paul,Paul,Professor  10 Months,Professor,proundy@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Wilder,Laura,Laura,Asso Prof 10,Assoc Professor 10 Months,lwilder@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Schiller,Kathryn,Kathryn,Asso Prof 10,Associate Professor,kschiller@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Policy & Leadership,FACULTY,Educational Policy & Leadership
+Larsen,Melinda,Melinda,Professor  10 Months,Professor,mlarsen@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Kecskes,Istvan,Istvan,Dstg Prof 10,Distinguished Professor,ikecskes@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Claiborne,Nancy,Nancy,Professor  10 Months,Professor,nclaiborne@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Peterson,Dana,Dana,Professor  10 Months,Professor,dpeterson@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Chen,Fan Pen,Fan Pen,Asso Prof 10,Assoc Professor,fchen@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,East Asian Studies,FACULTY,East Asian Studies
+McClamrock,Ronald,Ronald,Asso Prof 10,Associate Professor,rmcclamrock@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Philosophy,FACULTY,Philosophy
+Werner,Michael,Michael,Asso Prof 10,Assoc Professor 10 Months,mwerner@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Art & Art History,FACULTY,Art & Art History
+Jones,Lani,Lani,Professor  10 Months,Professor,ljones@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Moslehi,Roxana,Roxana,Asso Prof 10,Associate Professor,rmoslehi@albany.edu,ACAD AFFAIRS,PUB HEALTH,Epidemiology & Biostatistics,FACULTY,Epidemiology & Biostatistics
+McDowall,David,David,Dstg Tchg Prof 10,Distinguished Teaching Profess,dmcdowall@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Collins,James,James,Professor  10 Months,Professor 10 Months,jcollins@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Sutton,Barbara,Barbara,Asso Prof 10,Assoc Professor & Chair,bsutton@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,"Women's, Gender, and Sexuality Studies",FACULTY,"Women's, Gender, and Sexuality Studies"
+McNutt,Louise-Anne,Louise-Anne,Asso Prof 10,Assoc Director/Assoc Prof,lmcnutt@albany.edu,RESEARCH,University Level Centers,Institute for Health & the Environment,FACULTY,Institute for Health & the Environment
+Breiner,Peter,Peter,Asso Prof 10,Associate Professor,pbreiner@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Gordis,Elana,Elana,Asso Prof 10,Associate Professor 10 Months,egordis@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Berg,George,George,Asso Prof 10,Associate Professor,gberg@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Hill,Michael,Michael,Professor  10 Months,Professor,mhill@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Phillips,Susan,Susan,Professor  10 Months,Professor Counseling Psych.,sphillips@albany.edu,ACAD AFFAIRS,EDUCATION,Counseling Psychology,FACULTY,Counseling Psychology
+MacDonald,Carolyn,Carolyn,Professor  10 Months,Professor,cmacdonald@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Marschke,Gerald,Gerald,Asso Prof 10,Assoc Professor 10 Months,gmarschke@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Caticha,Ariel,Ariel,Professor  10 Months,Professor,acaticha@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Strach,Patricia,Patricia,Professor  10 Months,Professor,pstrach@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Zurbenko,Igor,Igor,Professor  10 Months,Professor,izurbenko@albany.edu,ACAD AFFAIRS,PUB HEALTH,Epidemiology & Biostatistics,FACULTY,Epidemiology & Biostatistics
+Cohon,Rachel,Rachel,Professor  10 Months,Professor 10 Months,rcohon@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Philosophy,FACULTY,Philosophy
+Lawson,Catherine,Catherine,Asso Prof 10,AscPrf/Dir Lewis Mum Ctr,lawsonc@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Geography & Planning,FACULTY,Geography & Planning
+Nowell,Gregory,Gregory,Asso Prof 10,Associate Professor,gnowell@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Bickmore,Lee,Lee,Professor  10 Months,"Prof & Dir, Ling and Cog Sci",lbickmore@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Armour-Garb,Bradley,Bradley,Professor  10 Months,Professor & Chair,barmour-garb@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Philosophy,FACULTY,Philosophy
+Jain,Vivek,Vivek,Asso Prof 10,Associate Professor,vjain@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Tam,Kinsun,Kinsun,Asso Prof 10,Associate Professor,ktam@albany.edu,ACAD AFFAIRS,BUSINESS,Accounting and Law,FACULTY,Accounting and Law
+Byon,Andrew,Andrew,Asso Prof 10,Associate Professor,abyon@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,East Asian Studies,FACULTY,East Asian Studies
+Cruz,Jose,Jose,Professor  10 Months,Professor,jcruz@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Osuna,Robert,Robert,Asso Prof 10,Associate Professor,rosuna@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Ellis-Robinson,Tammy,Tammy,Asst Prof 10,Assistant Professor,tellis-robinson@albany.edu,ACAD AFFAIRS,EDUCATION,Special Education,FACULTY,Special Education
+Huang,Youqin,Youqin,Professor  10 Months,"Dir of Geo BA, Confucius Inst",yhuang@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Geography & Planning,FACULTY,Geography & Planning
+Petrukhina,Marina,Marina,Professor  10 Months,Carla Rizzo Delray Prof of Chem,mpetrukhina@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Dikarev,Evgeny,Evgeny,Professor  10 Months,Professor,edikarev@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Caban,Pedro,Pedro,Professor  10 Months,Professor,pcaban@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Latin American and Caribbean Studies,FACULTY,Latin American and Caribbean Studies
+Nevo,Saggi,Saggi,Asso Prof 10,Assoc Professor 10 Months,snevo@albany.edu,ACAD AFFAIRS,BUSINESS,Information Systems & Business Analytics,FACULTY,Information Systems & Business Analytics
+Vasquez,Elizabeth,Elizabeth,Asso Prof 10,Associate Professor,evasquez2@albany.edu,ACAD AFFAIRS,PUB HEALTH,Epidemiology & Biostatistics,FACULTY,Epidemiology & Biostatistics
+Malatras,Jennifer,Jennifer,Clin Asst Prof 12,Clinical Assistant Professor (12 Month),jmalatras@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychological Services Center,FACULTY,Psychological Services Center
+Martin,Jessica,Jessica,Asso Prof 10,Associate Professor,jlmartin@albany.edu,ACAD AFFAIRS,EDUCATION,Counseling Psychology,FACULTY,Counseling Psychology
+Gallo,Mia,Mia,Res Asst Prof 12,Assoc Dir Operations & Research,mvgallo@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Center for Elimination of Minority Health Disparities (CEMHD),FACULTY,Center for Elimination of Minority Health Disparities (CEMHD)
+Powers,Nathan,Nathan,Asso Prof 10,Assoc Professor 10 Months,npowers@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Philosophy,FACULTY,Philosophy
+Chen,Haijun,Haijun,Asso Prof 10,Associate Professor (10 Mo),hchen01@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Chatterji,Pinka,Pinka,Professor  10 Months,Professor 10 Months,pchatterji@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Strully,Kathleen,Kate,Asso Prof 10,Assoc Professor 10 Months,kstrully@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Epidemiology & Biostatistics
+Fernando,Guy,Guy,Asso Prof 10,Assoc Professor 10 Months,gfernando@albany.edu,ACAD AFFAIRS,BUSINESS,Accounting and Law,FACULTY,Accounting and Law
+Stasi,Paul,Paul,Asso Prof 10,Assoc Professor 10 Months,pstasi@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Sergay,Timothy,Timothy,Asso Prof 10,Associate Professor,tsergay@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,"Languages, Lits. & Cultures",FACULTY,"Languages, Lits. & Cultures"
+Bloch,Amy,Amy,Asso Prof 10,Associate Professor,abloch@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Art & Art History,FACULTY,Art & Art History
+Hochfelder,David,David,Asso Prof 10,Associate Professor   10 Month,dhochfelder@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Smith-Howard,Kendra,Kendra,Asso Prof 10,Associate Professor,ksmith-howard@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Commuri,Suraj,Suraj,Asso Prof 10,Associate Professor 10 Month,scommuri@albany.edu,ACAD AFFAIRS,BUSINESS,Marketing,FACULTY,Marketing
+Zhang,Wei,Wei,Asso Prof 10,Associate Professor   10 Month,wzhang@albany.edu,ACAD AFFAIRS,BUSINESS,Accounting and Law,FACULTY,Accounting and Law
+Andaya,Elise,Elise,Asso Prof 10,Associate Professor,eandaya@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Lilley,James,James,Asso Prof 10,Associate Professor,jlilley@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Appe,Susan,Susan,Asso Prof 10,Assistant Professor,sappe@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Zhang,Jianwei,Jianwei,Asso Prof 10,Associate Professor   10 Month,jzhang1@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Friedman,Samantha,Samantha,Asso Prof 10,Assoc Professor 10 Months,samfriedman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Welsh,Joellen,Joellen,Dstg Prof 10,Distinguished Professor,jwelsh@albany.edu,ACAD AFFAIRS,PUB HEALTH,Environmental Health Sciences,FACULTY,Environmental Health Sciences
+Vuille,Mathias,Mathias,Professor  10 Months,Professor 10 Months,mvuille@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+McNay,Ewan,Ewan,Asso Prof 10,Associate Professor 10 Months,emcnay@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Weiss,Meredith,Meredith,Professor  10 Months,Professor,mweiss@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Pyles,Loretta,Loretta,Professor  10 Months,Professor,lpyles@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Major,Aaron,Aaron,Asso Prof 10,Associate Professor,amajor@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Bernard,Sheila,Sheila Curran,Asso Prof 10,Associate Professor,sbernard@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Yoruk,Baris,Baris,Professor  10 Months,Professor,byoruk@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Hwang,Jeong-Hyon,Jeong-Hyon,Asso Prof 10,Associate Professor 10 Months,jhwang@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Kuiken,Kir,Kir,Asso Prof 10,Associate Professor,kkuiken@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Sinn,Donghee,Donghee,Asso Prof 10,Associate Professor,dsinn@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Wang,Ying,Ying,Asso Prof 10,Associate Professor,ywang@albany.edu,ACAD AFFAIRS,BUSINESS,Finance,FACULTY,Finance
+Gordon,Adam,Adam,Asso Prof 10,Associate Professor 10 Months,agordon@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Bon Tempo,Carl,Carl,Asso Prof 10,Assoc Professor 10 Months,cbontempo@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Rubin,Ellen,Ellen,Asso Prof 10,Associate Professor,erubin@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Torn,Ryan,Ryan,Professor  10 Months,Professor & Chair,rtorn@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Oliveira,Alandeon,Alandeon,Asso Prof 10,Associate Professor,aoliveira@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Benavot,Aaron,Aaron,Professor  10 Months,Professor,abenavot@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Policy & Leadership,FACULTY,Educational Policy & Leadership
+Early,Bryan,Bryan,Asso Prof 10,Associate Professor 10 Months,bearly@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+D'Cruz,Jason,Jason,Asso Prof 10,Associate Professor 10 Months,jdcruz@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Philosophy,FACULTY,Philosophy
+Martin,Erika,Erika,Asso Prof 10,Associate Professor,emartin@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Dai,Na,Na,Asso Prof 10,Assoc Professor 10 Months,ndai@albany.edu,ACAD AFFAIRS,BUSINESS,Finance,FACULTY,Finance
+Caplan,Dennis,Dennis,Asso Prof 10,Associate Professor,dcaplan@albany.edu,ACAD AFFAIRS,BUSINESS,Accounting and Law,FACULTY,Accounting and Law
+Leventhal,Mitchel,Mitchel,Professor  10 Months,Professor 10 Months,mleventhal@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Policy & Leadership,FACULTY,Educational Policy & Leadership
+Reliene,Ramune,Ramune,Asso Prof 10,Associate Professor,rreliene@albany.edu,ACAD AFFAIRS,PUB HEALTH,Environmental Health Sciences,FACULTY,Environmental Health Sciences
+Gaesser,Brendan,Brendan,Asst Prof 10,Assistant Professor 10 Months,bgaesser@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Irwin,Ryan,Ryan,Asso Prof 10,Associate Professor,rirwin@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Coulthart,Stephen,Stephen,Asso Prof 10,Associate Professor,scoulthart@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Cornell,Kimberly,Kimberly,Vstng Asst Prof 10m,Visiting Assistant Professor,kacornell@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+McAndrew,Lisa,Lisa,Asso Prof 10,Associate Professor,lmcandrew@albany.edu,ACAD AFFAIRS,EDUCATION,Counseling Psychology,FACULTY,Counseling Psychology
+Zemel,Alan,Alan,Asso Prof 10,Associate Professor,azemel@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Lin,Shao,Shao,Professor  10 Months,Professor 10 Months,slin@albany.edu,ACAD AFFAIRS,PUB HEALTH,Environmental Health Sciences,FACULTY,Environmental Health Sciences
+Lunin,Oleg,Oleg,Asso Prof 10,Associate Professor10 Months,olunin@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Belfort,Marlene,Marlene,Dstg Prof 10,Dist Prof & Dir Lf Sci Rch Bld,mbelfort@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Goyal,Philip,Philip,Asso Prof 10,Associate Professor  10 Months,pgoyal@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Kisekka McFarland,Victoria,Victoria,Asst Prof 10,Assistant Professor,vkisekka@albany.edu,ACAD AFFAIRS,BUSINESS,Information Security & Digital Forensics,FACULTY,Information Security & Digital Forensics
+Alexandrova,Ivana,Ivana,Asso Prof 10,Associate Professor (10 Mo),ialexandrova@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Greene,Delicia,Delicia,Asst Prof 10,Assistant Professor 10 Months,dgreene@albany.edu,ACAD AFFAIRS,EDUCATION,Literacy Teaching and Learning,FACULTY,Literacy Teaching and Learning
+Wolff,Christopher,Christopher,Asso Prof 10,Associate Professor,cwolff@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Dodge,Jennifer,Jennifer,Asso Prof 10,Associate Professor,jdodge@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Sheu,Hung Bin,Hung Bin,Asso Prof 10,Associate Professor 10 Months,hsheu@albany.edu,ACAD AFFAIRS,EDUCATION,Educational & Counseling Psychology,FACULTY,Educational & Counseling Psychology
+Spriggs,Amanda,Amanda,Clin Asst Prof 10,Clinical Assistant Professor,aspriggs@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Brandon,Peter,Peter,Professor  10 Months,Professor & Chair,pbrandon@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Thorne,Melissa,Melissa,Asst Prof 10,Assistant Professor,mthorne@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Art & Art History,FACULTY,Art & Art History
+Zhou,Liming,Liming,Professor  10 Months,Professor 10 Months,lzhou@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Dreby,Joanna,Joanna,Professor  10 Months,Professor,jdreby@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Hastings,Julia,Julia,Asso Prof 10,Associate Professor,jhastings2@albany.edu,ACAD AFFAIRS,PUB HEALTH,Health Policy,FACULTY,Health Policy
+Lang,Andrea,Andrea,Asso Prof 10,Associate Professor,alang@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Ingram,Matthew,Matthew,Asso Prof 10,Associate Professor,mingram@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Pickett,Justin,Justin,Asso Prof 10,Associate Professor (10 Mo),jpickett@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Hormes,Julia,Julia,Asso Prof 10,AscProf&AscDean-FacAffs&Rsch,jhormes@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Yigit,Mehmet,Mehmet,Asso Prof 10,Associate Professor,myigit@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Dai,Aiguo,Aiguo,Professor  10 Months,Professor,adai@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Graves,Kori,Kori,Asso Prof 10,Associate Professor,kgraves@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Qian,Feng,Feng,Asso Prof 10,Associate Professor (10 Mo),fqian@albany.edu,ACAD AFFAIRS,PUB HEALTH,Health Policy,FACULTY,Health Policy
+Minder,Justin,Justin,Asso Prof 10,Associate Professor,jminder@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Londono,Johana,Johana,Asso Prof 10,Associate Professor,jlondono@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Latin American and Caribbean Studies,FACULTY,Latin American and Caribbean Studies
+Pager,Cara,Cara,Asso Prof 10,Associate Professor,ctpager@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Bozlak,Christine,Christine,Asso Prof 10,Associate Professor 10 Months,cbozlak@albany.edu,ACAD AFFAIRS,PUB HEALTH,Health Policy,FACULTY,Health Policy
+Tang,Brian,Brian,Asso Prof 10,Associate Professor,btang@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Aso,Michitake,Michitake,Asso Prof 10,Associate Professor,maso@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Liu,Alfred,Alfred,Asso Prof 10,Associate Professor,zliu3@albany.edu,ACAD AFFAIRS,BUSINESS,Accounting and Law,FACULTY,Accounting and Law
+Liang,Zhongwen,Zhongwen,Asso Prof 10,Associate Professor,zliang3@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Najdowski,Cynthia,Cynthia,Asso Prof 10,Associate Professor,cnajdowski@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Liu,Jiping,Jiping,Asso Prof 10,Associate Professor,jliu26@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Royzen,Maksim,Maksim,Asso Prof 10,Assistant Professor (10 Mo),mroyzen@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Perez Rodriguez,Veronica,Veronica,Asso Prof 10,Associate Professor,vperezrodriguez@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Chang,Ming-Ching,Ming-Ching,Asst Prof 10,Assistant Professor,mchang2@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Zaremsky,Matthew,Matthew,Asst Prof 10,Assistant Professor 10 Months,mzaremsky@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Fretwell,Erica,Erica,Asso Prof 10,Associate Professor,efretwell@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Roberts,Wendy,Wendy,Asso Prof 10,Associate Professor 10 Months,wroberts2@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Barta,Zsofia,Zsofia,Asso Prof 10,Assistant Professor 10 Months,zbarta@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Chen,Gang,Gang,Asso Prof 10,Associate Professor,gchen3@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Boswell,James,James,Asso Prof 10,Associate Professor,jboswell@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Puccioni,Jaime,Jaime,Asso Prof 10,Associate Professor,jpuccioni@albany.edu,ACAD AFFAIRS,EDUCATION,Literacy Teaching and Learning,FACULTY,Literacy Teaching and Learning
+Barnes,Erica,Erica,Asso Prof 10,Associate Professor 10 Months,ebarnes@albany.edu,ACAD AFFAIRS,EDUCATION,Literacy Teaching and Learning,FACULTY,Literacy Teaching and Learning
+Poulos,Andrew,Andrew,Asso Prof 10,Associate Professor,apoulos@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Leung,Ricky,Ricky,Asso Prof 10,Associate Professor,rleung@albany.edu,ACAD AFFAIRS,PUB HEALTH,Health Policy,FACULTY,Health Policy
+Scimemi,Annalisa,Annalisa,Asso Prof 10,Associate Professor,ascimemi@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Serrano,Carmen,Carmen,Asso Prof 10,Assistant Professor (10 Mo),cserrano4@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,"Languages, Lits. & Cultures",FACULTY,"Languages, Lits. & Cultures"
+Sheng,Jia,Jia,Asso Prof 10,Associate Professor 10 Months,jsheng@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Elison Timm,Oliver,Oliver,Asso Prof 10,Associate Professor,oelisontimm@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Yang,Tse-Chuan,Tse-Chuan,Asso Prof 10,Associate Professor 10 Months,tyang3@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Bhatia,Rajani,Rajani,Asso Prof 10,Associate Professor,rbhatia2@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,"Women's, Gender, and Sexuality Studies",FACULTY,"Women's, Gender, and Sexuality Studies"
+Morey,Alyssa,Alyssa,Asso Prof 10,Associate Professor,amorey@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Park,Byoung,Byoung,Asst Prof 10,Assistant Professor,bpark2@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Petruccelli,Jonathan,Jonathan,Asso Prof 10,Associate Professor,jpetruccelli@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Rose,Brian,Brian,Asso Prof 10,Associate Professor,brose@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Buyantuev,Alexander,Alexander,Asso Prof 10,Associate Professor,abuyantuev@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Geography & Planning,FACULTY,Geography & Planning
+Gubernskaya,Zoya,Zoya,Asso Prof 10,Associate Professor,zgubernskaya@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Korobeynikov,Dmitry,Dmitry,Asso Prof 10,Associate Professor,dkorobeynikov@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Herschkowitz,Jason,Jason,Asso Prof 10,Associate Professor,jherschkowitz@albany.edu,ACAD AFFAIRS,PUB HEALTH,Biomedical Science,FACULTY,Biomedical Science
+Chen,Alan,Alan,Asso Prof 10,Associate Professor,achen6@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Appleton,Allison,Allison,Asso Prof 10,Assistant Professor  10 Months,aappleton@albany.edu,ACAD AFFAIRS,PUB HEALTH,Epidemiology & Biostatistics,FACULTY,Epidemiology & Biostatistics
+Forni,Paolo,Paolo,Asso Prof 10,Associate Professor,pforni@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Stohler,Stephan,Stephan,Asst Prof 10,Assistant Professor,sstohler@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Pastore,Christopher,Christopher,Asso Prof 10,Associate Professor,cpastore@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Riccardi,William,William,Asso Prof 10,Associate Professor,wriccardi@albany.edu,ACAD AFFAIRS,BUSINESS,Accounting and Law,FACULTY,Accounting and Law
+Szydagis,Matthew,Matthew,Asso Prof 10,Associate Professor,mszydagis@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Colvin,Kimberly,Kimberly,Asso Prof 10,Associate Professor 10 Months,kcolvin@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Psychology & Method,FACULTY,Educational & Counseling Psychology
+Jiang,Shiguo,Shiguo,Asst Prof 10,Assistant Professor 10 Months,sjiang2@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Geography & Planning,FACULTY,Geography & Planning
+Tracy,Melissa,Melissa,Asso Prof 10,Associate Professor,mtracy@albany.edu,ACAD AFFAIRS,PUB HEALTH,Epidemiology & Biostatistics,FACULTY,Epidemiology & Biostatistics
+Kumi-Yeboah,Alex,Alex,Asso Prof 10,Associate Professor,akumi-yeboah@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Learned,Julie,Julie,Asso Prof 10,Associate Professor,jlearned@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Levy,Brett,Brett,Asso Prof 10,Associate Professor,bllevy@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Li,Rui,Rui,Asso Prof 10,Associate Professor,rli4@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Geography & Planning,FACULTY,Geography & Planning
+Zuloaga,Damian,Damian,Asso Prof 10,Associate Professor,dzuloaga@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Bogdanov,Petko,Petko,Asso Prof 10,Associate Professor 10 Months,pbogdanov@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Schaller,Tomoko,Tomoko,Asso Prof 10,Asoc Prf & Hlth Pol Advr COVID,tschaller@albany.edu,ACAD AFFAIRS,PUB HEALTH,Health Policy,FACULTY,Health Policy
+Balaram,Rakhee,Rakhee,Asst Prof 10,Assistant Professor 10 Months,rbalaram@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Art & Art History,FACULTY,Art & Art History
+Ying,Yiming,Yiming,Professor  10 Months,Professor,yying@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Feyzi Behnagh,Reza,Reza,Asso Prof 10,Associate Professor,rfeyzibehnagh@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Lee,Wonhyung,Wonhyung,Asso Prof 10,Associate Professor,whlee@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Khmaladze,Alexander,Alexander,Asso Prof 10,Associate Professor,akhmaladze@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Li,Yue,Yue,Asso Prof 10,Associate Professor,yli49@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Reiman,Anna,Anna,Asso Prof 10,Associate Professor,areiman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Enget,Kathryn,Kat,Asst Prof 10,Assistant Professor,kenget@albany.edu,ACAD AFFAIRS,BUSINESS,Accounting and Law,FACULTY,Accounting and Law
+Kane,Maeve,Maeve,Asso Prof 10,Assistant Professor,mkane2@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Jennings,Julia,Julia,Asso Prof 10,Associate Professor,jjennings2@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Zheleva,Mariya,Mariya,Asso Prof 10,Associate Professor,mzheleva@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Masoumzadeh-Tork,Amirreza,Amir,Asst Prof 10,Assistant Professor,amasoumzadeh@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Atrey,Pradeep,Pradeep,Asso Prof 10,Associate Professor,patrey@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Adams,Marcus,Marcus,Asso Prof 10,Associate Professor,madams2@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Philosophy,FACULTY,Philosophy
+Fox,Ashley,Ashley,Asso Prof 10,Associate Professor,afox3@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Feingold,Beth,Beth,Asso Prof 10,Associate Professor,bfeingold@albany.edu,ACAD AFFAIRS,PUB HEALTH,Environmental Health Sciences,FACULTY,Environmental Health Sciences
+Person,John,John,Asso Prof 10,Associate Professor,jperson@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,East Asian Studies,FACULTY,East Asian Studies
+Stellar,James,James,Professor  10 Months,Professor,jstellar@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Fovell,Robert,Robert,Professor  10 Months,Professor 10 Months,rfovell@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Fuchs,Gabriele,Gabriele,Asst Prof 10,Assistant Professor 10 Months,gfuchs@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Hetland,Gabriel,Gabriel,Asst Prof 10,Assistant Professor 12 Months,ghetland@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Latin American and Caribbean Studies,FACULTY,Latin American and Caribbean Studies
+Piotrowska,Monika,Monika,Asso Prof 10,Associate Professor 10 Months,mpiotrowska@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Philosophy,FACULTY,Philosophy
+Zhong,Changlong,Changlong,Asso Prof 10,Associate Professor,czhong@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Wang,Ting,Ting,Vstng Asst Prof 10m,Assistant Professor 10 Months,twang3@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Proffitt,Aaron,Aaron,Asst Prof 10,Assistant Professor 10 Months,aproffitt@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,East Asian Studies,FACULTY,East Asian Studies
+Krishnan,Archana,Archana,Asso Prof 10,Associate Professor,akrishnan@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Narins,Thomas,Thomas,Asst Prof 10,Assistant Professor,tnarins@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Geography & Planning,FACULTY,Geography & Planning
+Charles,Harvey,Harvey,Professor  10 Months,Professor 10 Months,hcharles@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Policy & Leadership,FACULTY,Educational Policy & Leadership
+Solomon,Benjamin,Benjamin,Asso Prof 10,Associate Professor,bgsolomon@albany.edu,ACAD AFFAIRS,EDUCATION,School Psychology Program,FACULTY,School Psychology Program
+Schlomer,Gabriel,Gabriel,Asso Prof 10,Associate Professor,gschlomer@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Psychology & Method,FACULTY,Educational Psychology & Method
+Clemens,Lauren,Lauren,Asso Prof 10,Assistant Professor 10 Months,lclemens@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Harris,Michelle,Michelle,Professor  10 Months,Professor 10 Months,maharris@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Africana Studies,FACULTY,School of Social Welfare
+Stazyk,Edmund,Edmund,Asso Prof 10,Associate Professor 10 Months,estazyk@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Dvir,Nimrod,Nimrod,Vstng Asst Prof 10m,Visiting Assistant Professor 10 Month,ndvir@albany.edu,ACAD AFFAIRS,BUSINESS,Information Systems & Business Analytics,FACULTY,Information Systems & Business Analytics
+Sheridan,Heather,Heather,Asso Prof 10,Assistant Professor,hsheridan@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Moeyaert,Mariola,Mariola,Asso Prof 10,Associate Professor,mmoeyaert@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Psychology & Method,FACULTY,Educational Psychology & Method
+Wales,William,Bill,Professor  10 Months,Professor & Chair,wwales@albany.edu,ACAD AFFAIRS,BUSINESS,Management,FACULTY,Management
+Zhang,Qiang,Qiang,Asso Prof 10,Associate Professor,qzhang5@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Randall,Jason,Jason,Asst Prof 10,Assistant Professor 10 Months,jgrandall@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Romeiko,Xiaobo,Xiaobo,Asso Prof 10,Associate Professor,xxue@albany.edu,ACAD AFFAIRS,PUB HEALTH,Environmental Health Sciences,FACULTY,Environmental Health Sciences
+Urbaeva,Jildyz,Jildyz,Asst Prof 10,Assistant Professor 10 Months,zurbaeva@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Elgala,Hany,Hany,Asst Prof 10,Assistant Professor 10 Months,helgala@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Electrical & Computer Engineering,FACULTY,Electrical & Computer Engineering
+Levy,Cecilia,Cecilia,Asso Prof 10,Assistant Professor 10 Months,clevy@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Ni,Lijun,Lijun,Asst Prof 10,Assistant Professor,lni@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Morano,Carmen,Carmen,Professor  10 Months,Professor,clmorano@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Szpunar,Piotr,Piotr,Asst Prof 10,Assistant Professor 10 Months,pszpunar@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Yamamoto,Masahiro,Masahiro,Asso Prof 10,Associate Professor & Chair,myamamoto2@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Sammons,Morgan,Morgan,Asst Prof 10,Assistant Professor 10 Months,masammons@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Weaver,Timothy,Timothy,Asso Prof 10,Associate Professor,tweaver@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Sorensen,Lucy,Lucy,Asst Prof 10,Assistant Professor,lsorensen@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Trolian,Teniell,Teniell,Asst Prof 10,Assistant Professor,ttrolian@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Policy & Leadership,FACULTY,Educational Policy & Leadership
+Hureau,David,David,Asst Prof 10,Assistant Professor,dhureau@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Dalal,Dev,Dev,Asso Prof 10,Associate Professor,ddalal@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Young,Michael,Michael,Asst Prof 10,Assistant Professor,myoung4@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Behlendorf,Brandon,Brandon,Asst Prof 10,Assistant Professor,bbehlendorf@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Sahebi,Shaghayegh,Shaghayegh,Asst Prof 10,Assistant Professor,ssahebi@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Ekenna,Chinwe,Chinwe,Asst Prof 10,Assistant Professor 10 Months,cekenna@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Baker,Erin,Erin,Asst Prof 10,Assistant Professor,erbaker@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Psychology & Method,FACULTY,Educational Psychology & Method
+Gorman,Brandon,Brandon,Asst Prof 10,Assistant Professor 10 Months,bgorman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Averett,Kathleen,Kate,Asst Prof 10,Assistant Professor 10 Months,kaverett@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Zois,Daphney Stavroula,Daphney Stavroula,Asst Prof 10,Assistant Professor,dzois@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Electrical & Computer Engineering,FACULTY,Electrical & Computer Engineering
+Chelmis,Charalampos,Charalampos,Asst Prof 10,Assistant Professor 10 Months,cchelmis@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Moulic,James,James,Professor  12 Months,"Prof, Assoc Dean & Chair, Comp Sci",jmoulic@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,"College of Engineering and Applied Sciences, Dean's Office",FACULTY,"College of Engineering and Applied Sciences, Dean's Office"
+Fotso,Herbert,Herbert,Asst Prof 10,Assistant Professor 10 Months,hfotso@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Robbins,Daniel,Daniel,Asst Prof 10,Assistant Professor 10 Months,dgrobbins@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Physics,FACULTY,Physics
+Gasco Hernandez,Maria DeLos Milagros,Mila,Asso Prof 12,Research Director/Assoc Prof,mgasco@albany.edu,RESEARCH,University Level Centers,Center for Technology in Government,FACULTY,Center for Technology in Government
+Stern,Eric,Eric,Professor  10 Months,Professor 10 Months,ekstern@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Clary,Christopher,Christopher,Asst Prof 10,Assistant Professor 10 Months,cclary@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Ho,Chun-Yu,Chun-Yu,Asst Prof 10,Assistant Professor 10 Months,cho@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Kang,Hyewon,Hyewon,Vstng Asst Prof 10m,Visiting Assistant Professor 10 Month,hkang4@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Baranik,Lisa,Lisa,Asso Prof 10,Associate Professor,lbaranik@albany.edu,ACAD AFFAIRS,BUSINESS,Management,FACULTY,Management
+Park,Hae In,Hae In,Vstng Asst Prof 10m,Assistant Professor,hpark9@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Theory & Practice,FACULTY,Educational Theory & Practice
+Kuniholm,Mark,Mark,Asso Prof 10,Associate Professor,mkuniholm@albany.edu,ACAD AFFAIRS,PUB HEALTH,Epidemiology & Biostatistics,FACULTY,Epidemiology & Biostatistics
+Walat,Kathryn,Kathryn,Asso Prof 10,Associate Professor,kwalat@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Music and Theatre,FACULTY,Music and Theatre
+Siddiqui,Niloufer,Niloufer,Asst Prof 10,Assistant Professor,nasiddiqui@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Greenhill,Brian,Brian,Asso Prof 10,Assoc. Professor & Chair,bgreenhill@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Kaul,Aashish,Aashish,Asst Prof 10,Assistant Professor 10 Months,akaul@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Wiener,Hillary,Hillary,Asst Prof 10,Assistant Professor 10 Months,hwiener@albany.edu,ACAD AFFAIRS,BUSINESS,Marketing,FACULTY,Marketing
+Wilson,Theodore,Theodore,Asst Prof 10,Assistant Professor 10 Months,thwilson@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Saulnier,Gary,Gary,Professor  10 Months,"Professor & Chair, Computer Engineering",gsaulnier@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Electrical & Computer Engineering,FACULTY,Electrical & Computer Engineering
+Holt,Stephen,Stephen,Asst Prof 10,Assistant Professor,sbholt@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Yang,Fan,Fan,Asst Prof 10,Assistant Professor 10 Months,fyang@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Penta,Samantha,Samantha,Asst Prof 10,Assistant Professor,spenta@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Bronfman,Alejandra,Alejandra,Professor  10 Months,Associate Professor & Chair,abronfman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Latin American and Caribbean Studies,FACULTY,Latin American and Caribbean Studies
+Liang,Yanna,Yanna,Professor  10 Months,Professor and Chair,yliang3@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Environmental & Sustainable Engineering,FACULTY,Environmental & Sustainable Engineering
+Silver,Amber,Amber,Asst Prof 10,Assistant Professor,asilver@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Gaunt,Kyra,Kyra,Asst Prof 10,Assistant Professor 10 Months,kgaunt@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Music and Theatre,FACULTY,Music and Theatre
+Mountz,Sarah,Sarah,Asst Prof 10,Assistant Professor 10 Months,smountz@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Feng,Yunlong,Yunlong,Asst Prof 10,Assistant Professor 10 Months,ylfeng@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Curry,Justin,Justin,Asst Prof 10,Assistant Professor 10 Months,jmcurry@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Valm,Alex,Alex,Asst Prof 10,Assistant Professor 10 Months,avalm@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Hounyo,Koomla Ulrich,Koomla Ulrich,Asso Prof 10,Associate Professor,khounyo@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Feldblyum,Jeremy,Jeremy,Asst Prof 10,Assistant Professor 10 Months,jfeldblyum@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Zhang,Daiqiang,Daiqiang,Asst Prof 10,Assistant Professor 10 Months,dzhang6@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Lesnick,Michael,Michael,Asst Prof 10,Assistant Professor 10 Months,mlesnick@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Kovacheva,Aleksandra,Aleksandra,Asst Prof 10,Assistant Professor 10 Months,akovacheva@albany.edu,ACAD AFFAIRS,BUSINESS,Marketing,FACULTY,Marketing
+Aksoy,Mustafa,Mustafa,Asst Prof 10,Assistant Professor 10 Months,maksoy@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Electrical & Computer Engineering,FACULTY,Electrical & Computer Engineering
+Bhattacharya,Devipsita,Devipsita,Asst Prof 10,Assistant Professor 10 Months,dbhattacharya@albany.edu,ACAD AFFAIRS,BUSINESS,Information Security & Digital Forensics,FACULTY,Information Security & Digital Forensics
+Francesconi,Federica,Federica,Asso Prof 10,Assoc. Prof/Dir Judaic Studies,ffrancesconi@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Zylberman,Ariel,Ariel,Asst Prof 10,Assistant Professor 10 Months,azylberman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Philosophy,FACULTY,Philosophy
+Ackerman,Gary,Gary,Asso Prof 10,Associate Professor,gackerman@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Zhang,Weilan,Weilan,Vstng Asst Prof 10m,Visiting Assistant Professor 10 Month,wzhang4@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Environmental & Sustainable Engineering,FACULTY,Environmental & Sustainable Engineering
+Kuem,Jungwon,Jungwon,Asst Prof 10,Assistant Professor,jkuem@albany.edu,ACAD AFFAIRS,BUSINESS,Information Security & Digital Forensics,FACULTY,Information Security & Digital Forensics
+Kim,Kyoung-Yeol,Kyoung-Yeol,Asst Prof 10,Assistant Professor 10 Months,kkim28@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Environmental & Sustainable Engineering,FACULTY,Environmental & Sustainable Engineering
+Whichard,Corey,Corey,Asst Prof 10,Assistant Professor,cwhichard@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Namgoong,Won,Won,Professor  10 Months,Professor and Chair,wnamgoong@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Electrical & Computer Engineering,FACULTY,Electrical & Computer Engineering
+Bari,Md Aynul,Md Aynul,Asst Prof 10,Assistant Professor,mbari@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Environmental & Sustainable Engineering,FACULTY,Environmental & Sustainable Engineering
+Liu,Yaoze,Yaoze,Asst Prof 10,Assistant Professor,yliu46@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Environmental & Sustainable Engineering,FACULTY,Environmental & Sustainable Engineering
+Huang,Rixiang,Rixiang,Asst Prof 10,Assistant Professor,rhuang6@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Environmental & Sustainable Engineering,FACULTY,Environmental & Sustainable Engineering
+Lee,Hongseok,Hongseok,Asst Prof 10,Assistant Professor,hlee5@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Park,Chang Sup,Chang Sup,Asso Prof 10,Assistant Professor 10 Months,cpark2@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Tetreault,Laura,Elliot,Asst Prof 10,Assistant Professor,ltetreault@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,English,FACULTY,English
+Lin,Betty,Betty,Asst Prof 10,Assistant Professor,blin6@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Kwon,Peter,Peter,Asst Prof 10,Assistant Professor,pbkwon@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,East Asian Studies,FACULTY,East Asian Studies
+Ahmed,Rukhsana,Rukhsana,Asso Prof 10,Associate Professor,rahmed4@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Redwood,Andre,Andre,Asst Prof 10,Assistant Professor,aoredwood@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Music and Theatre,FACULTY,Music and Theatre
+Cheung,Ho Kwan,Ho Kwan,Asst Prof 10,Assistant Professor,hcheung@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Coddington,Kate,Kate,Asst Prof 10,Assistant Professor,kcoddington@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Geography & Planning,FACULTY,Geography & Planning
+Zahler,Sara,Sara,Asst Prof 10,Assistant Professor,szahler@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,"Languages, Lits. & Cultures",FACULTY,"Languages, Lits. & Cultures"
+Taylor,Michael,Michael,Asst Prof 10,Assistant Professor,mjtaylor@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,History,FACULTY,History
+Kwon,Hyun-Kyoung,Hyun-Kyoung,Asst Prof 10,Assistant Professor,hkwon6@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Tatar,Unal,Unal,Asst Prof 10,Assistant Professor 10 Months,utatar@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Jackson,Samuel,Sam,Asst Prof 10,Assistant Professor,sdjackson@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Griffy,Benjamin,Benjamin,Asst Prof 10,Assistant Professor,bgriffy@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Crayne,Matthew,Matthew,Asst Prof 10,Assistant Professor,mcrayne@albany.edu,ACAD AFFAIRS,BUSINESS,Management,FACULTY,Management
+Spitzley,Lee,Lee,Asst Prof 10,Assistant Professor,lspitzley@albany.edu,ACAD AFFAIRS,BUSINESS,Information Security & Digital Forensics,FACULTY,Information Security & Digital Forensics
+Vieyra,Francisco,Francisco,Asst Prof 10,Assistant Professor,fvieyra@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Agamy,Mohammed,Mohammed,Vstng Asso Prof 10m,Associate Professor,magamy@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Electrical & Computer Engineering,FACULTY,Electrical & Computer Engineering
+Greer,Alex,Alex,Asso Prof 10,Associate Professor,agreer@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Chen,Cuicui,Cuicui,Asst Prof 10,Assistant Professor,cchen27@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Economics,FACULTY,Economics
+Jinna,Pranay,Pranay,Asst Prof 10,Assistant Professor 10 Months,pjinna@albany.edu,ACAD AFFAIRS,BUSINESS,Information Systems & Business Analytics,FACULTY,Information Systems & Business Analytics
+Berglund,John,Andy,Professor  10 Months,Professor,aberglund@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Bennett-Gayle,DeeDee,DeeDee,Asso Prof 10,Associate Professor,dmbennett@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Rucks-Ahidiana,Zawadi,Zawadi,Asst Prof 10,Assistant Professor 10 Months,zrucks-ahidiana@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Yin,Penghang,Penghang,Asst Prof 10,Assistant Professor 10 Months,pyin@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Magner,Abram,Abram,Asst Prof 10,Assistant Professor 10 Months,amagner@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Computer Science,FACULTY,Computer Science
+Gettings,Patricia,Patricia,Asst Prof 10,Assistant Professor,pgettings@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Ford,Tianlin,Tianlin,Asst Prof 10,Assistant Professor 10 Months,twang23@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Psychology & Method,FACULTY,Educational Psychology & Method
+Lee,ChangHwan,ChangHwan,Asst Prof 10,Assistant Professor,chlee@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,FACULTY,Biology
+Yankson,Benjamin,Benjamin,Asst Prof 10,Assistant Professor,byankson@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Kolay,Sreya,Sreya,Asst Prof 10,Assistant Professor,skolay@albany.edu,ACAD AFFAIRS,BUSINESS,Marketing,FACULTY,Marketing
+Li,Xiao,Xiao,Asst Prof 10,Assistant Professor,xli43@albany.edu,ACAD AFFAIRS,BUSINESS,Finance,FACULTY,Finance
+Lin,Bilian,Bilian,Asst Prof 10,Assistant Professor,blin7@albany.edu,ACAD AFFAIRS,BUSINESS,Management,FACULTY,Management
+Ivonchyk,Mikhail,Mikhail,Asst Prof 10,Assistant Professor 10 Months,mivonchyk@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,FACULTY,Public Administration & Policy
+Stitt,Mary,Mary,Asst Prof 10,Assistant Professor,mstitt@albany.edu,ACAD AFFAIRS,ROCKEFELLER,School of Criminal Justice,FACULTY,School of Criminal Justice
+Sutton,Jeannette,Jeannette,Asso Prof 10,Associate Professor,jsutton@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Lawrence,Grace,Grace,Vstng Asst Prof 10m,Visiting Assistant Professor,glawrence@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Art & Art History,FACULTY,Art & Art History
+Rowan,John,John,Asst Prof 10,Assistant Professor,jrowan@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Anthropology,FACULTY,Anthropology
+Glovsky,David,David,Vstng Asst Prof 10m,Visiting Assistant Professor,dglovsky@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Africana Studies,FACULTY,Africana Studies
+Yeung,Michael,Michael,Asst Prof 10,Assistant Professor,mtyeung@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,FACULTY,Chemistry
+Disney,Lindsey,Lindsey,Asst Prof 10,Assistant Professor 10 Months,ldisney@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,FACULTY,School of Social Welfare
+Dirlam,Jonathan,Jonathan,Asst Prof 10,Assistant Professor 10 Months,jdirlam@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Sociology,FACULTY,Sociology
+Sharma,Prinkle,Prinkle,Asst Prof 10,Assistant Professor 10 Months,psharma2@albany.edu,ACAD AFFAIRS,BUSINESS,Information Security & Digital Forensics,FACULTY,Information Security & Digital Forensics
+Cox,Gregory,Gregory,Asst Prof 10,Assistant Professor 10 Months,gecox@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychology,FACULTY,Psychology
+Enriquez,Jared,Jared,Asst Prof 10,Assistant Professor,jenriquez@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Geography & Planning,FACULTY,Geography & Planning
+Lee,Bum Kyu,Bum Kyu,Asst Prof 10,Assistant Professor,blee6@albany.edu,ACAD AFFAIRS,PUB HEALTH,Biomedical Science,FACULTY,Biomedical Science
+Zhang,Kai,Kai,Asso Prof 10,Empire Innovation Assoc. Prof.,kzhang9@albany.edu,ACAD AFFAIRS,PUB HEALTH,Environmental Health Sciences,FACULTY,Environmental Health Sciences
+Hillman,Aubrey,Aubrey,Asst Prof 10,Assistant Professor,ahillman@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Murty,Sujata,Sujata,Asst Prof 10,Assistant Professor,smurty@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Atmospheric & Environmental Sciences,FACULTY,Atmospheric & Environmental Sciences
+Rivera,Sari,Sari,Vstng Asst Prof 10m,Visiting Assistant Professor 10 Month,srivera3@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Ye,Xiaofeng,Felix,Asst Prof 10,Assistant Professor,xye2@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Mathematics and Statistics,FACULTY,Mathematics and Statistics
+Levine,Kenneth,Kenneth,Asst Prof 10,Assistant Professor 10 Months,klevine@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Communication,FACULTY,Communication
+Bird,Christine,Christine,Vstng Asst Prof 10m,Visiting Assistant Professor 10 Month,ccbird@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,FACULTY,Political Science
+Gonzalez-Cruz,Jorge,Jorge,Professor  12 Months,Professor-Empire Innovation,jgonzalez-cruz@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,FACULTY,Atmospheric Sciences Rsch Center
+Canbaz,Muhammed Abdullah,Muhammed Abdullah,Vstng Asst Prof 10m,Visiting Assistant Professor,mcanbaz@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",FACULTY,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Jach,Elizabeth,Elizabeth,Vstng Asst Prof 10m,Visiting Assistant Professor 10 Month,ejach@albany.edu,ACAD AFFAIRS,EDUCATION,Educational Policy & Leadership,FACULTY,Educational Policy & Leadership
+Shen,Yaqi,Yaqi,Vstng Asst Prof 10m,Visiting Assistant Professor 10 Month,yshen2@albany.edu,ACAD AFFAIRS,EDUCATION,Literacy Teaching and Learning,FACULTY,Literacy Teaching and Learning
+Cavalhieri,Klaus,Klaus,Vstng Asst Prof 10m,Visiting Assistant Professor 10 Month,kcavalhieri@albany.edu,ACAD AFFAIRS,EDUCATION,Counseling Psychology,FACULTY,Educational & Counseling Psychology
+Lafond,Deborah,Deborah,Associate Librarian,SubjLib Afr Ed Psych Gend Sex,dbernnard@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Lu,Cheng-Hsuan,Cheng-Hsuan,Research Associate,Research Associate,clu4@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,RESEARCH,Atmospheric Sciences Rsch Center
+Miller,Scott,Scott,Res Asso Cy,Research Associate,smiller@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,RESEARCH,Atmospheric Sciences Rsch Center
+Litchford,George,George,Senior Res Asso,Dir Psych Svc Ctr And Adj Pr,glitchford@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Psychological Services Center,RESEARCH,Psychological Services Center
+Freedman,Jeffrey,Jeffrey,Research Associate,Research Associate,jfreedman@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,RESEARCH,Atmospheric Sciences Rsch Center
+Cimini,Maria,Dolores,Senior Res Asso,Senior Research Scientist,dcimini@albany.edu,ACAD AFFAIRS,EDUCATION,Counseling Psychology,RESEARCH,Educational Psychology & Method
+Perez,Richard,Richard,Sr Res Asso Cy,Senior Research Associate,rperez@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,RESEARCH,Atmospheric Sciences Rsch Center
+Chittur,Sridar,Sridar,Senior Res Asso,Senior Research Associate,schittur@albany.edu,RESEARCH,University Level Centers,Center for Functional Genomics,RESEARCH,Center for Functional Genomics
+Fitzjarrald,David,David,Senior Res Asso,Senior Research Associate,dfitzjarrald@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,RESEARCH,Atmospheric Sciences Rsch Center
+Schwab,James,James,Senior Res Asso,Senior Research Associate,jschwab@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,RESEARCH,Atmospheric Sciences Rsch Center
+Min,Qilong,Qilong,Research Associate,Research Associate,qmin@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,RESEARCH,Atmospheric Sciences Rsch Center
+Yu,Fangqun,Fangqun,Research Associate,Research Associate,fyu@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,RESEARCH,Atmospheric Sciences Rsch Center
+Jones,Kenneth,Kenneth,Research Assistant 08,Research Assistant,kjones1@albany.edu,ACAD AFFAIRS,PUB HEALTH,Biomedical Science,RESEARCH,Biomedical Science
+Halvorsen,Kenneth,Ken,Res Asso Cy,Senior Research Scientist,khalvorsen@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Institute for RNA Science and Technology,RESEARCH,Institute for RNA Science and Technology
+Ferguson,Craig,Craig,Res Asso Cy,Research Associate-CY,crferguson@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,RESEARCH,Atmospheric Sciences Rsch Center
+Crom,Audrey,Audrey,Research Assistant 08,Research Assistant 08,acrom@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,RESEARCH,Chemistry
+Sulia,Kara,Kara,Res Asso Cy,Research Associate (Cy),ksulia@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,RESEARCH,Atmospheric Sciences Rsch Center
+Vangaveti,Sweta,Sweta,Res Asso Cy,Research Associate (Cy),svangaveti@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Institute for RNA Science and Technology,RESEARCH,Institute for RNA Science and Technology
+Dey,Bijan,Bijan,Res Asso Cy,Adjunct Research Faculty,bdey@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Institute for RNA Science and Technology,RESEARCH,Institute for RNA Science and Technology
+Lance,Sara,Sara,Research Associate,Research Associate,smlance@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,RESEARCH,Atmospheric Sciences Rsch Center
+Kim,Jisang,Jisang,Research Assistant 08,Research Assistant 08,jkim44@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Center for Women Goverment & Civil Society,RESEARCH,Center for Women Goverment & Civil Society
+Li,Juncheng,Juncheng,Research Assistant 08,Research Assistant 08,jli56@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,RESEARCH,Chemistry
+Reid,Tammy,Tammy,Research Assistant 08,Research Assistant 08,tsreid@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Biology,RESEARCH,Biology
+Reddy,Kaalak,Kaalak,Res Asso Cy,Research Faculty,kreddy2@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Institute for RNA Science and Technology,RESEARCH,Institute for RNA Science and Technology
+Cleary,John,John,Sr Res Asso Cy,Senior Research Associate (Cy),jdcleary@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Institute for RNA Science and Technology,RESEARCH,Institute for RNA Science and Technology
+Kim,Kyu Yon,Esther,Research Assistant 08,Research Assistant 08,kkim7@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Center for Women Goverment & Civil Society,RESEARCH,Center for Women Goverment & Civil Society
+Zhang,Yiren,Yiren,Research Assistant 08,Research Assistant 08,yzhang63@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,RESEARCH,Chemistry
+Knoche,Victoria,Tori,Research Associate,Research Associate,tknoche@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Youth Justice Best Practices,RESEARCH,Youth Justice Best Practices
+Keskin,Omer,Omer,Research Associate,Assistant Professor,okeskin@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",RESEARCH,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Keshri,Sudhir Kumar,Sudhir Kumar,Research Assistant 08,Research Assistant 08,skeshri@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Chemistry,RESEARCH,Chemistry
+Prasad,Aryamala,Aryamala,Research Assistant 08,Research Assistant 08,aprasad3@albany.edu,RESEARCH,University Level Centers,Center for Technology in Government,RESEARCH,Center for Technology in Government
+Ravi,Yukesh Kannah,Yukesh Kannah,Research Associate,Visiting Assistant Professor 10 Month,yravi@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,Environmental & Sustainable Engineering,RESEARCH,Environmental & Sustainable Engineering
+Lyon,Melissa,Melissa,Research Assistant 08,Research Assistant 08,mlyon@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Public Administration & Policy,RESEARCH,Public Administration & Policy
+Bolin,Cammie,Cammie,Research Associate,Research Associate,cbolin@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Political Science,RESEARCH,Political Science
+Cook,Meghan,Meghan,Staff Associate,Program Director,mecook@albany.edu,RESEARCH,University Level Centers,Center for Technology in Government,PROFESSIONAL,Center for Technology in Government
+Burke,Gerald,G Brian,Staff Associate,Managing Director,gburke2@albany.edu,RESEARCH,University Level Centers,Center for Technology in Government,PROFESSIONAL,Center for Technology in Government
+Kent,Shari,Shari,Staff Assistant,"Staff Assistant, White Face Mntn",skent@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,PROFESSIONAL,Atmospheric Sciences Rsch Center
+Sicker,John,John,Lead Prgmr Anlst,Lead Programmer Analyst,jsicker@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,PROFESSIONAL,Atmospheric Sciences Rsch Center
+Werthmuller,Derek,Derek,Senr Staff Assoc,Dir Tech Svcs & Innovations,dwerthmuller@albany.edu,RESEARCH,University Level Centers,Center for Technology in Government,PROFESSIONAL,Center for Technology in Government
+Beauharnois,Mark,Mark,Sr Prog/Anal,Senior Programmer/Analyst,mbeauharnois@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,PROFESSIONAL,Atmospheric Sciences Rsch Center
+Hauser,Paula,Paula,Staff Assistant,Project Assistant,phauser@albany.edu,RESEARCH,University Level Centers,Center for Technology in Government,PROFESSIONAL,Center for Technology in Government
+Casson,Paul,Paul,Instrcl Support Tech,Instructional Support Tech,pcasson@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,PROFESSIONAL,Atmospheric Sciences Rsch Center
+Wynne,Kevin,Kevin,Senr Staff Assnt,Senior Staff Assistant,kwynne@albany.edu,RESEARCH,University Level Centers,Ion Beam Lab,PROFESSIONAL,Ion Beam Lab
+Righi,Christopher,Christopher,Instrucl Supprt Spec,Accelerator Technician,crighi@albany.edu,RESEARCH,University Level Centers,Ion Beam Lab,PROFESSIONAL,Ion Beam Lab
+Knutson,Andrew,Andrew,Instrucl Supprt Assnt,Ion Beam Lab Tech,aknutson@albany.edu,RESEARCH,University Level Centers,Ion Beam Lab,PROFESSIONAL,Ion Beam Lab
+Dey,Alessandria,Alessandria,Staff Assistant,Staff Assistant,adey@albany.edu,RESEARCH,University Level Centers,Center for Technology in Government,PROFESSIONAL,Center for Technology in Government
+Lott,Catherine,Catherine,Staff Assistant,Spncd Funds Spec/Resch Facltr,clott@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,PROFESSIONAL,Atmospheric Sciences Rsch Center
+Lin,Hsiao-Chun,Hsiao-Chun,Instrucl Supprt Assnt,Instructional Support Assistant,hlin21@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,PROFESSIONAL,Atmospheric Sciences Rsch Center
+Cai,Yichen,Yichen,Instrucl Supprt Assnt,Instructional Support Assistant,jcai5@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,PROFESSIONAL,Atmospheric Sciences Rsch Center
+Gallant,Mary,Mary,Dean,Sr Assoc Dean for Aca Affairs,mgallant@albany.edu,ACAD AFFAIRS,PUB HEALTH,Dean's Office --School of Public Health,M/C,Dean's Office --School of Public Health
+Warner,Lynn,Lynn,Dean (Social Welfare),"Dean, Social Welfare",lwarner@albany.edu,ACAD AFFAIRS,SOCIAL WELFARE,School of Social Welfare,M/C,School of Social Welfare
+Hatch,Carey,Carey,Dir Lib,Interim Dean of Libraries,chatch@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,M/C,University Libraries
+Thorncroft,Christopher,Christopher,Dir Atmo Sci Res Ctr,"Director, ASRC",cthorncroft@albany.edu,RESEARCH,University Level Centers,Atmospheric Sciences Rsch Center,M/C,Atmospheric Sciences Rsch Center
+Williams,Kevin,Kevin,Dean,"Vice Provost & Dean, Grad Studies",kwilliams@albany.edu,ACAD AFFAIRS,GRADSCHOOL,The Graduate School,M/C,The Graduate School
+Kesavadas,Thenkurussi,Thenkurussi,VP Res,VP Research & Econ Develpmt,tkesavadas@albany.edu,RESEARCH,RESRCHORG,Vice President for Research,M/C,Vice President for Research
+Altarriba,Jeanette,Jeanette,Dean Art Sci,"Dean, Arts & Sciences",jaltarriba@albany.edu,ACAD AFFAIRS,ARTS & SCIENCES,Dean's Office--College of Arts & Science,M/C,Dean's Office--College of Arts & Science
+Novkov,Julie,Julie,Dean (Public Affairs),Dean (Public Affairs),jnovkov@albany.edu,ACAD AFFAIRS,ROCKEFELLER,Dean's Office--Rockefeller College,M/C,Dean's Office--Rockefeller College
+Goatley,Virginia,Virginia,Dean (Education),Interim Dean,vgoatley@albany.edu,ACAD AFFAIRS,EDUCATION,Dean's Office--School of Education,M/C,Dean's Office--School of Education
+Pardo,Theresa,Theresa,Director,Associate VP for Research,tpardo@albany.edu,RESEARCH,RESRCHORG,Vice President for Research,M/C,Vice President for Research
+Kumar,Satyendra,Satyendra,Associate Vice Pres,Associate VP for Research,satyenkumar@albany.edu,RESEARCH,RESRCHORG,Grants Development,M/C,Ion Beam Lab
+Griffin,Robert,Robert,Dean,"Dean, CEHC",rpgriffin@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",M/C,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Holtgrave,David,David,Dean,Distinguished Professor,dholtgrave@albany.edu,ACAD AFFAIRS,PUB HEALTH,School of Public Health Continuing Education,M/C,Dean's Office --School of Public Health
+Sen,Nilanjan,Nilanjan,Dean (Business),Dean of Business,nsen@albany.edu,ACAD AFFAIRS,BUSINESS,Dean's Office--School of Business,M/C,Dean's Office--School of Business
+Rencis,Joseph,Joseph,Dean Lib Sci,Dean CEAS,jjrencis@albany.edu,ACAD AFFAIRS,COMP ENG & APP SCI,"College of Engineering and Applied Sciences, Dean's Office",M/C,"College of Engineering and Applied Sciences, Dean's Office"
+Chang,Hui-Ching,Hui-Ching,Dean (Humanities),Dean of the Honors College,hchang3@albany.edu,ACAD AFFAIRS,UNDERGRAD,Honors College,M/C,Honors College
+Fogarty,Richard,Richard,Associate Dean,Assoc Vice Prov. & Assoc Dean,rfogarty@albany.edu,ACAD AFFAIRS,UNDERGRAD,Office of Undergraduate Education,M/C,Office of Undergraduate Education
+Griffith,Glyne,Glyne,Asst VP Ac Aff,"Assoc. VP, Faculty Success",ggriffith@albany.edu,ACAD AFFAIRS,ACAD ADMIN,Provost & VP- Academic Affairs,M/C,Provost & VP- Academic Affairs
+Wagner,Christine,Christine,Asst VP Ac Aff,"Assoc VP, Faculty Development",cwagner@albany.edu,ACAD AFFAIRS,ACAD ADMIN,Provost & VP- Academic Affairs,M/C,Provost & VP- Academic Affairs
+Kim,Carol,Carol,Provost,Provost & Sr. VP Academic Affairs,chkim@albany.edu,ACAD AFFAIRS,ACAD ADMIN,Provost & VP- Academic Affairs,M/C,Provost & VP- Academic Affairs
+Chen,Yu-Hui,Yu-Hui,Librarian,Subj Lib Edu East Asian Stud,ychen@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Ricker,Karina,Karina,Sr Asst Libr,Ref & Govt Info Librarian,kricker@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Holden,Irina,Irina,Associate Librarian,Info Litercy & Sci Outrch Lib,iholden@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+West,Wendy,Wendy,Associate Librarian,Head of Discovery Svcs,wwest@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Lasda,Elaine,Elaine,Librarian,Coord. Scholarly Communication,elasda@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Germain,Carol Anne,Carol Anne,Librarian (Ay),Associate Teaching Professor,cgermain@albany.edu,ACAD AFFAIRS,CEHC,"College of Emergency Preparedness, Homeland Security & Cybersecurity",LIBRARIAN,"College of Emergency Preparedness, Homeland Security & Cybersecurity"
+Burke,Gerald,Gerald,Associate Librarian,SubLib Art Engl Mus Phil Thtr,gburke@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Kessler,Jane,Jane,Associate Librarian,Director of Collections,jkessler@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Alonso-Regalado,Jesus,Jesus,Associate Librarian,Subj Lib Hist Lat Amer Rom,jalonso-regalado@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Keough,Brian,Brian,Librarian,"Head, Spec Col & Archives",bkeough@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Bobish,Gregory,Gregory,Associate Librarian,Information Literacy Librarian,gbobish@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Kaczor,Sue,Sue,Associate Librarian,SubjLib Bio Atm Envir Gen Sci,skaczor@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Lafond,Deborah,Deborah,Associate Librarian,SubjLib Afr Ed Psych Gend Sex,dlafond@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Wolfe,Mark,Mark,Associate Librarian,Curator of Digital Collections,mwolfe@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Stanwicks,Kabel,Kabel Nathan,Sr Asst Libr,Head of Access Services,kstanwicks@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Hosier,Allison,Allison,Associate Librarian,Head Information Literacy Dept,ahosier@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+McMullen,Melissa,Melissa,Sr Asst Libr,Assistant University Archivist,mmcmullen@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+O'Brien,Kelsey,Kelsey,Associate Librarian,Information Literacy Librarian,klobrien@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Lowe,Amanda,Amanda,Sr Asst Libr,Outreach & Marketing Librarian,amlowe@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Poehlmann,Nancy,Nancy,Associate Librarian,Spcl Collections Cataloging Coord.,npoehlmann@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Poehlmann,Christian,Christian,Associate Librarian,Bibliographer for Bus & Econom,cpoehlmann@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Mugridge,Rebecca,Rebecca,Librarian,Distinguished Librarian,rmugridge@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Wiedeman,Gregory,Gregory,Associate Librarian,University Archivist,gwiedeman@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Chesley,Camille,Camille,Associate Librarian,Head Reference & Research Svcs,cchesley@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Puzier,Lauren,Lauren,Sr Asst Libr,User Experience Librarian,lpuzier@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Seaman,Priscilla,Priscilla,Sr Asst Libr,Subj Lib Anthro Geo Plan Comm,pseaman@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Waterhouse,Janetta,Janetta,Sr Asst Libr,Dir of Tech Svc & Lib Systems,jwaterhouse@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Hackstadt,Angela,Angela,Sr Asst Libr,Sub Lib PSci PAdm Pub Pol Law,ahackstadt@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Kilcer,Emily,Emily,Sr Asst Libr,Scholarly Comm Librarian,ekilcer@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Adams,Abigail,Abigail,Sr Asst Libr,Senior Assistant Librarian,aadams5@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
+Flynn,Kathleen,Kathleen,Sr Asst Libr,Senior Assistant Librarian,kflynn@albany.edu,ACAD AFFAIRS,LIBRARIES,University Libraries,LIBRARIAN,University Libraries
